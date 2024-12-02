@@ -18,9 +18,9 @@ func abs(x int) int {
 
 func main() {
 	fmt.Println("Reading files from the current directory")
-	root := "input"
+	root := "/Users/gat786/projects/personal/golang/advent-of-code-2024/input"
 
-	fp, err := os.Open(fmt.Sprintf("%s/%s", root, "data"))
+	fp, err := os.Open(fmt.Sprintf("%s/%s", root, "data-1"))
 	if err != nil {
 		fmt.Println(err)
 		return
