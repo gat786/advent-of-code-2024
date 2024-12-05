@@ -1,0 +1,4712 @@
+Solving Day 3 Problem 1
+Reading files from the current directory
+d found
+Condition found:  don't()
+m found
+Number found:  884
+Number found:  758
+Closing brace found
+Complete sequence would be: mul(884, 758)
+Skipping this combination, since we found dont()
+m found
+Number found:  971
+Number found:  475
+Closing brace found
+Complete sequence would be: mul(971, 475)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  358
+Number found:  23
+Closing brace found
+Complete sequence would be: mul(358, 23)
+Skipping this combination, since we found dont()
+m found
+Number found:  459
+Number found:  784
+Closing brace found
+Complete sequence would be: mul(459, 784)
+Skipping this combination, since we found dont()
+m found
+Number found:  36
+Number found:  125
+Closing brace found
+Complete sequence would be: mul(36, 125)
+Skipping this combination, since we found dont()
+m found
+Number found:  26
+Number found:  486
+Closing brace found
+Complete sequence would be: mul(26, 486)
+Skipping this combination, since we found dont()
+m found
+Number found:  439
+Number found:  790
+Closing brace found
+Complete sequence would be: mul(439, 790)
+Skipping this combination, since we found dont()
+m found
+Number found:  721
+Number found:  171
+Closing brace found
+Complete sequence would be: mul(721, 171)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  184
+Number found:  862
+Closing brace found
+Complete sequence would be: mul(184, 862)
+Skipping this combination, since we found dont()
+m found
+Number found:  222
+Number found:  883
+Closing brace found
+Complete sequence would be: mul(222, 883)
+Skipping this combination, since we found dont()
+m found
+Number found:  825
+Number found:  577
+Closing brace found
+Complete sequence would be: mul(825, 577)
+Skipping this combination, since we found dont()
+m found
+Number found:  240
+Number found:  453
+Closing brace found
+Complete sequence would be: mul(240, 453)
+Skipping this combination, since we found dont()
+m found
+Number found:  422
+Number found:  258
+Closing brace found
+Complete sequence would be: mul(422, 258)
+Skipping this combination, since we found dont()
+m found
+Number found:  437
+Number found:  905
+Closing brace found
+Complete sequence would be: mul(437, 905)
+Skipping this combination, since we found dont()
+m found
+Number found:  670
+Number found:  503
+Closing brace found
+Complete sequence would be: mul(670, 503)
+Skipping this combination, since we found dont()
+m found
+Number found:  979
+Number found:  674
+Closing brace found
+Complete sequence would be: mul(979, 674)
+Skipping this combination, since we found dont()
+m found
+Number found:  412
+Number found:  637
+Closing brace found
+Complete sequence would be: mul(412, 637)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+m found
+Number found:  600
+Number found:  238
+Closing brace found
+Complete sequence would be: mul(600, 238)
+Adding this combination to the list
+m found
+Number found:  982
+Number found:  137
+Closing brace found
+Complete sequence would be: mul(982, 137)
+Adding this combination to the list
+m found
+m found
+Number found:  550
+Number found:  306
+Closing brace found
+Complete sequence would be: mul(550, 306)
+Adding this combination to the list
+m found
+Number found:  331
+Number found:  66
+Closing brace found
+Complete sequence would be: mul(331, 66)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  123
+Number found:  637
+Closing brace found
+Complete sequence would be: mul(123, 637)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  116
+Number found:  755
+Closing brace found
+Complete sequence would be: mul(116, 755)
+Skipping this combination, since we found dont()
+m found
+Number found:  500
+Number found:  433
+Closing brace found
+Complete sequence would be: mul(500, 433)
+Skipping this combination, since we found dont()
+m found
+Number found:  801
+Number found:  467
+Closing brace found
+Complete sequence would be: mul(801, 467)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  425
+Number found:  706
+Closing brace found
+Complete sequence would be: mul(425, 706)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+m found
+Number found:  528
+Number found:  4
+Closing brace found
+Complete sequence would be: mul(528, 4)
+Skipping this combination, since we found dont()
+m found
+Number found:  722
+Number found:  185
+Closing brace found
+Complete sequence would be: mul(722, 185)
+Skipping this combination, since we found dont()
+m found
+Number found:  922
+Number found:  184
+Closing brace found
+Complete sequence would be: mul(922, 184)
+Skipping this combination, since we found dont()
+m found
+Number found:  172
+Number found:  838
+Closing brace found
+Complete sequence would be: mul(172, 838)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  784
+Number found:  897
+Closing brace found
+Complete sequence would be: mul(784, 897)
+Skipping this combination, since we found dont()
+m found
+Number found:  280
+Number found:  567
+Closing brace found
+Complete sequence would be: mul(280, 567)
+Skipping this combination, since we found dont()
+m found
+Number found:  491
+Number found:  379
+Closing brace found
+Complete sequence would be: mul(491, 379)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  79
+Number found:  608
+Closing brace found
+Complete sequence would be: mul(79, 608)
+Skipping this combination, since we found dont()
+m found
+Number found:  892
+Number found:  927
+Closing brace found
+Complete sequence would be: mul(892, 927)
+Skipping this combination, since we found dont()
+m found
+Number found:  681
+Number found:  799
+Closing brace found
+Complete sequence would be: mul(681, 799)
+Skipping this combination, since we found dont()
+m found
+Number found:  79
+Number found:  235
+Closing brace found
+Complete sequence would be: mul(79, 235)
+Skipping this combination, since we found dont()
+m found
+Number found:  674
+Number found:  156
+Closing brace found
+Complete sequence would be: mul(674, 156)
+Skipping this combination, since we found dont()
+m found
+m found
+m found
+Number found:  332
+Number found:  74
+Closing brace found
+Complete sequence would be: mul(332, 74)
+Skipping this combination, since we found dont()
+m found
+Number found:  186
+Number found:  755
+Closing brace found
+Complete sequence would be: mul(186, 755)
+Skipping this combination, since we found dont()
+m found
+Number found:  65
+Number found:  13
+Closing brace found
+Complete sequence would be: mul(65, 13)
+Skipping this combination, since we found dont()
+m found
+Number found:  334
+Number found:  303
+Closing brace found
+Complete sequence would be: mul(334, 303)
+Skipping this combination, since we found dont()
+m found
+Number found:  230
+Number found:  17
+Closing brace found
+Complete sequence would be: mul(230, 17)
+Skipping this combination, since we found dont()
+m found
+Number found:  673
+Number found:  345
+Closing brace found
+Complete sequence would be: mul(673, 345)
+Skipping this combination, since we found dont()
+m found
+Number found:  37
+Number found:  326
+Closing brace found
+Complete sequence would be: mul(37, 326)
+Skipping this combination, since we found dont()
+m found
+Number found:  119
+Number found:  45
+Closing brace found
+Complete sequence would be: mul(119, 45)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  276
+Number found:  12
+Closing brace found
+Complete sequence would be: mul(276, 12)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  138
+Number found:  385
+Closing brace found
+Complete sequence would be: mul(138, 385)
+Adding this combination to the list
+m found
+Number found:  453
+Number found:  763
+Closing brace found
+Complete sequence would be: mul(453, 763)
+Adding this combination to the list
+m found
+Number found:  162
+Number found:  449
+Closing brace found
+Complete sequence would be: mul(162, 449)
+Adding this combination to the list
+m found
+Number found:  629
+Number found:  968
+Closing brace found
+Complete sequence would be: mul(629, 968)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  136
+Number found:  744
+Closing brace found
+Complete sequence would be: mul(136, 744)
+Skipping this combination, since we found dont()
+m found
+Number found:  963
+Number found:  430
+Closing brace found
+Complete sequence would be: mul(963, 430)
+Skipping this combination, since we found dont()
+m found
+Number found:  32
+Number found:  898
+Closing brace found
+Complete sequence would be: mul(32, 898)
+Skipping this combination, since we found dont()
+m found
+Number found:  875
+Number found:  563
+Closing brace found
+Complete sequence would be: mul(875, 563)
+Skipping this combination, since we found dont()
+m found
+Number found:  946
+Number found:  225
+Closing brace found
+Complete sequence would be: mul(946, 225)
+Skipping this combination, since we found dont()
+m found
+Number found:  8
+Number found:  486
+Closing brace found
+Complete sequence would be: mul(8, 486)
+Skipping this combination, since we found dont()
+m found
+Number found:  266
+Number found:  130
+Closing brace found
+Complete sequence would be: mul(266, 130)
+Skipping this combination, since we found dont()
+m found
+Number found:  682
+Number found:  427
+Closing brace found
+Complete sequence would be: mul(682, 427)
+Skipping this combination, since we found dont()
+m found
+Number found:  188
+Number found:  258
+Closing brace found
+Complete sequence would be: mul(188, 258)
+Skipping this combination, since we found dont()
+m found
+Number found:  141
+Number found:  846
+Closing brace found
+Complete sequence would be: mul(141, 846)
+Skipping this combination, since we found dont()
+m found
+Number found:  765
+Number found:  674
+Closing brace found
+Complete sequence would be: mul(765, 674)
+Skipping this combination, since we found dont()
+m found
+Number found:  803
+Number found:  905
+Closing brace found
+Complete sequence would be: mul(803, 905)
+Skipping this combination, since we found dont()
+m found
+d found
+Condition found:  don't()
+m found
+m found
+Number found:  103
+Number found:  378
+Closing brace found
+Complete sequence would be: mul(103, 378)
+Skipping this combination, since we found dont()
+m found
+Number found:  458
+Number found:  652
+Closing brace found
+Complete sequence would be: mul(458, 652)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  868
+Number found:  688
+Closing brace found
+Complete sequence would be: mul(868, 688)
+Adding this combination to the list
+m found
+Number found:  160
+Number found:  791
+Closing brace found
+Complete sequence would be: mul(160, 791)
+Adding this combination to the list
+m found
+m found
+Number found:  473
+Number found:  136
+Closing brace found
+Complete sequence would be: mul(473, 136)
+Adding this combination to the list
+m found
+Number found:  825
+Number found:  302
+Closing brace found
+Complete sequence would be: mul(825, 302)
+Adding this combination to the list
+m found
+m found
+Number found:  325
+Number found:  635
+Closing brace found
+Complete sequence would be: mul(325, 635)
+Adding this combination to the list
+m found
+m found
+Number found:  299
+Number found:  8
+Closing brace found
+Complete sequence would be: mul(299, 8)
+Adding this combination to the list
+m found
+Number found:  332
+Number found:  547
+Closing brace found
+Complete sequence would be: mul(332, 547)
+Adding this combination to the list
+m found
+m found
+Number found:  532
+Number found:  358
+Closing brace found
+Complete sequence would be: mul(532, 358)
+Adding this combination to the list
+m found
+m found
+Number found:  961
+Number found:  542
+Closing brace found
+Complete sequence would be: mul(961, 542)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  357
+Number found:  878
+Closing brace found
+Complete sequence would be: mul(357, 878)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  61
+Number found:  265
+Closing brace found
+Complete sequence would be: mul(61, 265)
+Skipping this combination, since we found dont()
+m found
+Number found:  854
+Invalid number found:  862{
+m found
+Number found:  578
+Number found:  695
+Closing brace found
+Complete sequence would be: mul(578, 695)
+Skipping this combination, since we found dont()
+m found
+Number found:  436
+Number found:  41
+Closing brace found
+Complete sequence would be: mul(436, 41)
+Skipping this combination, since we found dont()
+m found
+Number found:  938
+Number found:  646
+Closing brace found
+Complete sequence would be: mul(938, 646)
+Skipping this combination, since we found dont()
+m found
+Number found:  32
+Number found:  156
+Closing brace found
+Complete sequence would be: mul(32, 156)
+Skipping this combination, since we found dont()
+m found
+m found
+m found
+Number found:  447
+Number found:  680
+Closing brace found
+Complete sequence would be: mul(447, 680)
+Skipping this combination, since we found dont()
+m found
+Number found:  317
+Number found:  162
+Closing brace found
+Complete sequence would be: mul(317, 162)
+Skipping this combination, since we found dont()
+m found
+Number found:  13
+Number found:  671
+Closing brace found
+Complete sequence would be: mul(13, 671)
+Skipping this combination, since we found dont()
+m found
+Number found:  309
+Number found:  369
+Closing brace found
+Complete sequence would be: mul(309, 369)
+Skipping this combination, since we found dont()
+m found
+Number found:  249
+Number found:  325
+Closing brace found
+Complete sequence would be: mul(249, 325)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  102
+Number found:  356
+Closing brace found
+Complete sequence would be: mul(102, 356)
+Skipping this combination, since we found dont()
+m found
+Number found:  55
+Number found:  153
+Closing brace found
+Complete sequence would be: mul(55, 153)
+Skipping this combination, since we found dont()
+m found
+Number found:  945
+Number found:  918
+Closing brace found
+Complete sequence would be: mul(945, 918)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+m found
+Number found:  647
+Number found:  503
+Closing brace found
+Complete sequence would be: mul(647, 503)
+Adding this combination to the list
+m found
+Number found:  474
+Number found:  649
+Closing brace found
+Complete sequence would be: mul(474, 649)
+Adding this combination to the list
+m found
+Number found:  239
+Number found:  709
+Closing brace found
+Complete sequence would be: mul(239, 709)
+Adding this combination to the list
+m found
+m found
+Number found:  143
+Number found:  91
+Closing brace found
+Complete sequence would be: mul(143, 91)
+Adding this combination to the list
+m found
+Number found:  465
+Number found:  739
+Closing brace found
+Complete sequence would be: mul(465, 739)
+Adding this combination to the list
+m found
+Number found:  244
+Number found:  259
+Closing brace found
+Complete sequence would be: mul(244, 259)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  278
+Number found:  249
+Closing brace found
+Complete sequence would be: mul(278, 249)
+Skipping this combination, since we found dont()
+m found
+Number found:  276
+Number found:  375
+Closing brace found
+Complete sequence would be: mul(276, 375)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+d found
+Condition found:  don't()
+m found
+Number found:  217
+Invalid number found:  899+
+m found
+Number found:  307
+Number found:  28
+Closing brace found
+Complete sequence would be: mul(307, 28)
+Skipping this combination, since we found dont()
+m found
+Invalid number found:  372/
+m found
+Number found:  510
+Number found:  402
+Closing brace found
+Complete sequence would be: mul(510, 402)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  260
+Number found:  461
+Closing brace found
+Complete sequence would be: mul(260, 461)
+Skipping this combination, since we found dont()
+m found
+Number found:  229
+Number found:  636
+Closing brace found
+Complete sequence would be: mul(229, 636)
+Skipping this combination, since we found dont()
+m found
+Number found:  498
+Number found:  962
+Closing brace found
+Complete sequence would be: mul(498, 962)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  484
+Number found:  377
+Closing brace found
+Complete sequence would be: mul(484, 377)
+Skipping this combination, since we found dont()
+m found
+Number found:  226
+Number found:  984
+Closing brace found
+Complete sequence would be: mul(226, 984)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  677
+Number found:  790
+Closing brace found
+Complete sequence would be: mul(677, 790)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  752
+Number found:  67
+Closing brace found
+Complete sequence would be: mul(752, 67)
+Adding this combination to the list
+m found
+Number found:  344
+Number found:  833
+Closing brace found
+Complete sequence would be: mul(344, 833)
+Adding this combination to the list
+m found
+Number found:  601
+Number found:  124
+Closing brace found
+Complete sequence would be: mul(601, 124)
+Adding this combination to the list
+m found
+Number found:  375
+Number found:  322
+Closing brace found
+Complete sequence would be: mul(375, 322)
+Adding this combination to the list
+m found
+Number found:  477
+Number found:  697
+Closing brace found
+Complete sequence would be: mul(477, 697)
+Adding this combination to the list
+m found
+Number found:  596
+Number found:  223
+Closing brace found
+Complete sequence would be: mul(596, 223)
+Adding this combination to the list
+m found
+Number found:  860
+Number found:  132
+Closing brace found
+Complete sequence would be: mul(860, 132)
+Adding this combination to the list
+m found
+Number found:  600
+Number found:  137
+Closing brace found
+Complete sequence would be: mul(600, 137)
+Adding this combination to the list
+m found
+Number found:  216
+Number found:  806
+Closing brace found
+Complete sequence would be: mul(216, 806)
+Adding this combination to the list
+m found
+Number found:  772
+Invalid number found:  585]
+m found
+Number found:  373
+Number found:  681
+Closing brace found
+Complete sequence would be: mul(373, 681)
+Adding this combination to the list
+m found
+Number found:  349
+Number found:  138
+Closing brace found
+Complete sequence would be: mul(349, 138)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  560
+Number found:  179
+Closing brace found
+Complete sequence would be: mul(560, 179)
+Adding this combination to the list
+m found
+m found
+Number found:  626
+Number found:  452
+Closing brace found
+Complete sequence would be: mul(626, 452)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  410
+Number found:  47
+Closing brace found
+Complete sequence would be: mul(410, 47)
+Skipping this combination, since we found dont()
+m found
+Number found:  273
+Number found:  442
+Closing brace found
+Complete sequence would be: mul(273, 442)
+Skipping this combination, since we found dont()
+m found
+Number found:  128
+Number found:  601
+Closing brace found
+Complete sequence would be: mul(128, 601)
+Skipping this combination, since we found dont()
+m found
+m found
+Invalid number found:  37<
+m found
+Number found:  150
+Number found:  909
+Closing brace found
+Complete sequence would be: mul(150, 909)
+Skipping this combination, since we found dont()
+m found
+Number found:  260
+Number found:  599
+Closing brace found
+Complete sequence would be: mul(260, 599)
+Skipping this combination, since we found dont()
+m found
+Number found:  104
+Number found:  207
+Closing brace found
+Complete sequence would be: mul(104, 207)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  328
+Number found:  706
+Closing brace found
+Complete sequence would be: mul(328, 706)
+Skipping this combination, since we found dont()
+m found
+Number found:  706
+Number found:  921
+Closing brace found
+Complete sequence would be: mul(706, 921)
+Skipping this combination, since we found dont()
+m found
+Number found:  820
+Number found:  805
+Closing brace found
+Complete sequence would be: mul(820, 805)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  819
+Number found:  464
+Closing brace found
+Complete sequence would be: mul(819, 464)
+Skipping this combination, since we found dont()
+m found
+Number found:  880
+Number found:  740
+Closing brace found
+Complete sequence would be: mul(880, 740)
+Skipping this combination, since we found dont()
+m found
+Number found:  366
+Number found:  77
+Closing brace found
+Complete sequence would be: mul(366, 77)
+Skipping this combination, since we found dont()
+m found
+Number found:  211
+Number found:  80
+Closing brace found
+Complete sequence would be: mul(211, 80)
+Skipping this combination, since we found dont()
+m found
+Number found:  363
+Number found:  53
+Closing brace found
+Complete sequence would be: mul(363, 53)
+Skipping this combination, since we found dont()
+m found
+Number found:  239
+Invalid number found:  819w
+m found
+Number found:  53
+Number found:  216
+Closing brace found
+Complete sequence would be: mul(53, 216)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  442
+Number found:  772
+Closing brace found
+Complete sequence would be: mul(442, 772)
+Skipping this combination, since we found dont()
+m found
+Number found:  9
+Number found:  796
+Closing brace found
+Complete sequence would be: mul(9, 796)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  772
+Number found:  725
+Closing brace found
+Complete sequence would be: mul(772, 725)
+Skipping this combination, since we found dont()
+m found
+Number found:  464
+Number found:  901
+Closing brace found
+Complete sequence would be: mul(464, 901)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  558
+Number found:  885
+Closing brace found
+Complete sequence would be: mul(558, 885)
+Skipping this combination, since we found dont()
+m found
+Number found:  206
+Invalid number found:  857{
+m found
+Number found:  373
+Number found:  741
+Closing brace found
+Complete sequence would be: mul(373, 741)
+Skipping this combination, since we found dont()
+m found
+Number found:  717
+Number found:  894
+Closing brace found
+Complete sequence would be: mul(717, 894)
+Skipping this combination, since we found dont()
+m found
+Number found:  864
+Number found:  646
+Closing brace found
+Complete sequence would be: mul(864, 646)
+Skipping this combination, since we found dont()
+m found
+Number found:  490
+Number found:  329
+Closing brace found
+Complete sequence would be: mul(490, 329)
+Skipping this combination, since we found dont()
+m found
+Number found:  528
+Number found:  726
+Closing brace found
+Complete sequence would be: mul(528, 726)
+Skipping this combination, since we found dont()
+m found
+Number found:  223
+Number found:  265
+Closing brace found
+Complete sequence would be: mul(223, 265)
+Skipping this combination, since we found dont()
+m found
+Number found:  343
+Number found:  632
+Closing brace found
+Complete sequence would be: mul(343, 632)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  809
+Number found:  361
+Closing brace found
+Complete sequence would be: mul(809, 361)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  300
+Number found:  959
+Closing brace found
+Complete sequence would be: mul(300, 959)
+Skipping this combination, since we found dont()
+m found
+Number found:  88
+Number found:  356
+Closing brace found
+Complete sequence would be: mul(88, 356)
+Skipping this combination, since we found dont()
+m found
+Number found:  250
+Number found:  169
+Closing brace found
+Complete sequence would be: mul(250, 169)
+Skipping this combination, since we found dont()
+m found
+Number found:  772
+Number found:  338
+Closing brace found
+Complete sequence would be: mul(772, 338)
+Skipping this combination, since we found dont()
+m found
+Number found:  689
+Number found:  701
+Closing brace found
+Complete sequence would be: mul(689, 701)
+Skipping this combination, since we found dont()
+m found
+Number found:  134
+Number found:  725
+Closing brace found
+Complete sequence would be: mul(134, 725)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  376
+Number found:  251
+Closing brace found
+Complete sequence would be: mul(376, 251)
+Skipping this combination, since we found dont()
+m found
+Number found:  232
+Number found:  864
+Closing brace found
+Complete sequence would be: mul(232, 864)
+Skipping this combination, since we found dont()
+m found
+Number found:  404
+Number found:  402
+Closing brace found
+Complete sequence would be: mul(404, 402)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Invalid number found:  10w
+m found
+Number found:  426
+Number found:  581
+Closing brace found
+Complete sequence would be: mul(426, 581)
+Adding this combination to the list
+m found
+Number found:  227
+Number found:  368
+Closing brace found
+Complete sequence would be: mul(227, 368)
+Adding this combination to the list
+m found
+Number found:  812
+Number found:  31
+Closing brace found
+Complete sequence would be: mul(812, 31)
+Adding this combination to the list
+m found
+d found
+Condition found:  don't()
+m found
+Number found:  884
+Number found:  447
+Closing brace found
+Complete sequence would be: mul(884, 447)
+Skipping this combination, since we found dont()
+m found
+Number found:  245
+Number found:  693
+Closing brace found
+Complete sequence would be: mul(245, 693)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  341
+Number found:  440
+Closing brace found
+Complete sequence would be: mul(341, 440)
+Skipping this combination, since we found dont()
+m found
+Number found:  836
+Number found:  261
+Closing brace found
+Complete sequence would be: mul(836, 261)
+Skipping this combination, since we found dont()
+m found
+Number found:  855
+Number found:  264
+Closing brace found
+Complete sequence would be: mul(855, 264)
+Skipping this combination, since we found dont()
+m found
+Number found:  445
+Number found:  237
+Closing brace found
+Complete sequence would be: mul(445, 237)
+Skipping this combination, since we found dont()
+m found
+Number found:  694
+Number found:  566
+Closing brace found
+Complete sequence would be: mul(694, 566)
+Skipping this combination, since we found dont()
+m found
+Number found:  720
+Invalid number found:  856?
+m found
+Number found:  149
+Number found:  756
+Closing brace found
+Complete sequence would be: mul(149, 756)
+Skipping this combination, since we found dont()
+m found
+Number found:  52
+Number found:  518
+Closing brace found
+Complete sequence would be: mul(52, 518)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  476
+Number found:  778
+Closing brace found
+Complete sequence would be: mul(476, 778)
+Skipping this combination, since we found dont()
+m found
+Number found:  317
+Number found:  462
+Closing brace found
+Complete sequence would be: mul(317, 462)
+Skipping this combination, since we found dont()
+m found
+Number found:  556
+Number found:  241
+Closing brace found
+Complete sequence would be: mul(556, 241)
+Skipping this combination, since we found dont()
+m found
+Number found:  37
+Number found:  135
+Closing brace found
+Complete sequence would be: mul(37, 135)
+Skipping this combination, since we found dont()
+m found
+Number found:  462
+Number found:  741
+Closing brace found
+Complete sequence would be: mul(462, 741)
+Skipping this combination, since we found dont()
+m found
+Number found:  758
+Number found:  786
+Closing brace found
+Complete sequence would be: mul(758, 786)
+Skipping this combination, since we found dont()
+m found
+Number found:  288
+Number found:  131
+Closing brace found
+Complete sequence would be: mul(288, 131)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  694
+Number found:  781
+Closing brace found
+Complete sequence would be: mul(694, 781)
+Adding this combination to the list
+m found
+Number found:  737
+Number found:  400
+Closing brace found
+Complete sequence would be: mul(737, 400)
+Adding this combination to the list
+m found
+Number found:  692
+Number found:  914
+Closing brace found
+Complete sequence would be: mul(692, 914)
+Adding this combination to the list
+m found
+Number found:  450
+Number found:  519
+Closing brace found
+Complete sequence would be: mul(450, 519)
+Adding this combination to the list
+m found
+Number found:  343
+Number found:  778
+Closing brace found
+Complete sequence would be: mul(343, 778)
+Adding this combination to the list
+m found
+Number found:  862
+Number found:  640
+Closing brace found
+Complete sequence would be: mul(862, 640)
+Adding this combination to the list
+m found
+Number found:  292
+Number found:  865
+Closing brace found
+Complete sequence would be: mul(292, 865)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  120
+Number found:  234
+Closing brace found
+Complete sequence would be: mul(120, 234)
+Skipping this combination, since we found dont()
+m found
+Number found:  12
+Number found:  755
+Closing brace found
+Complete sequence would be: mul(12, 755)
+Skipping this combination, since we found dont()
+m found
+m found
+m found
+Number found:  616
+Number found:  813
+Closing brace found
+Complete sequence would be: mul(616, 813)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  941
+Number found:  163
+Closing brace found
+Complete sequence would be: mul(941, 163)
+Skipping this combination, since we found dont()
+m found
+Number found:  578
+Number found:  90
+Closing brace found
+Complete sequence would be: mul(578, 90)
+Skipping this combination, since we found dont()
+m found
+Number found:  947
+Number found:  324
+Closing brace found
+Complete sequence would be: mul(947, 324)
+Skipping this combination, since we found dont()
+m found
+Invalid number found:  881*
+m found
+Number found:  336
+Number found:  395
+Closing brace found
+Complete sequence would be: mul(336, 395)
+Skipping this combination, since we found dont()
+m found
+Number found:  725
+Number found:  706
+Closing brace found
+Complete sequence would be: mul(725, 706)
+Skipping this combination, since we found dont()
+m found
+Number found:  820
+Number found:  146
+Closing brace found
+Complete sequence would be: mul(820, 146)
+Skipping this combination, since we found dont()
+m found
+Number found:  39
+Number found:  740
+Closing brace found
+Complete sequence would be: mul(39, 740)
+Skipping this combination, since we found dont()
+m found
+Number found:  150
+Number found:  698
+Closing brace found
+Complete sequence would be: mul(150, 698)
+Skipping this combination, since we found dont()
+m found
+Number found:  726
+Number found:  469
+Closing brace found
+Complete sequence would be: mul(726, 469)
+Skipping this combination, since we found dont()
+m found
+Number found:  584
+Number found:  505
+Closing brace found
+Complete sequence would be: mul(584, 505)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  824
+Number found:  186
+Closing brace found
+Complete sequence would be: mul(824, 186)
+Skipping this combination, since we found dont()
+m found
+Number found:  330
+Number found:  957
+Closing brace found
+Complete sequence would be: mul(330, 957)
+Skipping this combination, since we found dont()
+m found
+Number found:  204
+Number found:  391
+Closing brace found
+Complete sequence would be: mul(204, 391)
+Skipping this combination, since we found dont()
+m found
+Number found:  368
+Number found:  238
+Closing brace found
+Complete sequence would be: mul(368, 238)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  804
+Number found:  334
+Closing brace found
+Complete sequence would be: mul(804, 334)
+Skipping this combination, since we found dont()
+m found
+Number found:  678
+Number found:  242
+Closing brace found
+Complete sequence would be: mul(678, 242)
+Skipping this combination, since we found dont()
+m found
+Number found:  236
+Number found:  521
+Closing brace found
+Complete sequence would be: mul(236, 521)
+Skipping this combination, since we found dont()
+m found
+Number found:  631
+Number found:  328
+Closing brace found
+Complete sequence would be: mul(631, 328)
+Skipping this combination, since we found dont()
+m found
+Number found:  726
+Number found:  867
+Closing brace found
+Complete sequence would be: mul(726, 867)
+Skipping this combination, since we found dont()
+m found
+Number found:  419
+Number found:  860
+Closing brace found
+Complete sequence would be: mul(419, 860)
+Skipping this combination, since we found dont()
+m found
+Number found:  265
+Number found:  505
+Closing brace found
+Complete sequence would be: mul(265, 505)
+Skipping this combination, since we found dont()
+m found
+Number found:  974
+Number found:  931
+Closing brace found
+Complete sequence would be: mul(974, 931)
+Skipping this combination, since we found dont()
+m found
+Number found:  90
+Number found:  923
+Closing brace found
+Complete sequence would be: mul(90, 923)
+Skipping this combination, since we found dont()
+m found
+Number found:  743
+Number found:  393
+Closing brace found
+Complete sequence would be: mul(743, 393)
+Skipping this combination, since we found dont()
+m found
+Number found:  500
+Invalid number found:  935}
+m found
+Number found:  547
+Number found:  615
+Closing brace found
+Complete sequence would be: mul(547, 615)
+Skipping this combination, since we found dont()
+m found
+Number found:  570
+Number found:  502
+Closing brace found
+Complete sequence would be: mul(570, 502)
+Skipping this combination, since we found dont()
+m found
+d found
+Condition found:  do()
+m found
+Number found:  450
+Number found:  686
+Closing brace found
+Complete sequence would be: mul(450, 686)
+Adding this combination to the list
+m found
+Number found:  791
+Number found:  552
+Closing brace found
+Complete sequence would be: mul(791, 552)
+Adding this combination to the list
+m found
+Number found:  696
+Number found:  784
+Closing brace found
+Complete sequence would be: mul(696, 784)
+Adding this combination to the list
+m found
+Number found:  538
+Number found:  499
+Closing brace found
+Complete sequence would be: mul(538, 499)
+Adding this combination to the list
+m found
+Number found:  476
+Number found:  975
+Closing brace found
+Complete sequence would be: mul(476, 975)
+Adding this combination to the list
+m found
+Number found:  940
+Number found:  308
+Closing brace found
+Complete sequence would be: mul(940, 308)
+Adding this combination to the list
+m found
+m found
+Number found:  820
+Number found:  423
+Closing brace found
+Complete sequence would be: mul(820, 423)
+Adding this combination to the list
+m found
+Number found:  386
+Number found:  97
+Closing brace found
+Complete sequence would be: mul(386, 97)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  918
+Invalid number found:  462{
+m found
+Number found:  904
+Number found:  736
+Closing brace found
+Complete sequence would be: mul(904, 736)
+Skipping this combination, since we found dont()
+m found
+Number found:  374
+Number found:  305
+Closing brace found
+Complete sequence would be: mul(374, 305)
+Skipping this combination, since we found dont()
+m found
+Number found:  653
+Number found:  473
+Closing brace found
+Complete sequence would be: mul(653, 473)
+Skipping this combination, since we found dont()
+m found
+Number found:  162
+Number found:  434
+Closing brace found
+Complete sequence would be: mul(162, 434)
+Skipping this combination, since we found dont()
+m found
+Number found:  343
+Number found:  280
+Closing brace found
+Complete sequence would be: mul(343, 280)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  468
+Number found:  653
+Closing brace found
+Complete sequence would be: mul(468, 653)
+Skipping this combination, since we found dont()
+m found
+Number found:  920
+Number found:  562
+Closing brace found
+Complete sequence would be: mul(920, 562)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+m found
+Number found:  950
+Number found:  664
+Closing brace found
+Complete sequence would be: mul(950, 664)
+Skipping this combination, since we found dont()
+m found
+Number found:  4
+Number found:  72
+Closing brace found
+Complete sequence would be: mul(4, 72)
+Skipping this combination, since we found dont()
+m found
+Number found:  152
+Number found:  355
+Closing brace found
+Complete sequence would be: mul(152, 355)
+Skipping this combination, since we found dont()
+m found
+Number found:  639
+Number found:  874
+Closing brace found
+Complete sequence would be: mul(639, 874)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  768
+Number found:  596
+Closing brace found
+Complete sequence would be: mul(768, 596)
+Skipping this combination, since we found dont()
+m found
+Number found:  943
+Number found:  440
+Closing brace found
+Complete sequence would be: mul(943, 440)
+Skipping this combination, since we found dont()
+m found
+Number found:  911
+Number found:  143
+Closing brace found
+Complete sequence would be: mul(911, 143)
+Skipping this combination, since we found dont()
+m found
+Number found:  540
+Number found:  672
+Closing brace found
+Complete sequence would be: mul(540, 672)
+Skipping this combination, since we found dont()
+m found
+Number found:  704
+Number found:  465
+Closing brace found
+Complete sequence would be: mul(704, 465)
+Skipping this combination, since we found dont()
+m found
+Number found:  718
+Number found:  288
+Closing brace found
+Complete sequence would be: mul(718, 288)
+Skipping this combination, since we found dont()
+m found
+Number found:  673
+Number found:  322
+Closing brace found
+Complete sequence would be: mul(673, 322)
+Skipping this combination, since we found dont()
+m found
+Number found:  871
+Number found:  761
+Closing brace found
+Complete sequence would be: mul(871, 761)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  893
+Number found:  784
+Closing brace found
+Complete sequence would be: mul(893, 784)
+Skipping this combination, since we found dont()
+m found
+Number found:  189
+Number found:  64
+Closing brace found
+Complete sequence would be: mul(189, 64)
+Skipping this combination, since we found dont()
+m found
+Number found:  537
+Number found:  332
+Closing brace found
+Complete sequence would be: mul(537, 332)
+Skipping this combination, since we found dont()
+m found
+Number found:  275
+Number found:  738
+Closing brace found
+Complete sequence would be: mul(275, 738)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  144
+Number found:  418
+Closing brace found
+Complete sequence would be: mul(144, 418)
+Skipping this combination, since we found dont()
+m found
+Number found:  318
+Number found:  781
+Closing brace found
+Complete sequence would be: mul(318, 781)
+Skipping this combination, since we found dont()
+m found
+Number found:  192
+Number found:  929
+Closing brace found
+Complete sequence would be: mul(192, 929)
+Skipping this combination, since we found dont()
+m found
+Number found:  229
+Number found:  941
+Closing brace found
+Complete sequence would be: mul(229, 941)
+Skipping this combination, since we found dont()
+m found
+Number found:  973
+Number found:  416
+Closing brace found
+Complete sequence would be: mul(973, 416)
+Skipping this combination, since we found dont()
+m found
+Number found:  177
+Number found:  969
+Closing brace found
+Complete sequence would be: mul(177, 969)
+Skipping this combination, since we found dont()
+m found
+Number found:  273
+Number found:  730
+Closing brace found
+Complete sequence would be: mul(273, 730)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+m found
+Number found:  710
+Number found:  971
+Closing brace found
+Complete sequence would be: mul(710, 971)
+Adding this combination to the list
+m found
+Number found:  436
+Number found:  577
+Closing brace found
+Complete sequence would be: mul(436, 577)
+Adding this combination to the list
+m found
+Invalid number found:  158f
+m found
+m found
+m found
+Number found:  302
+Number found:  395
+Closing brace found
+Complete sequence would be: mul(302, 395)
+Adding this combination to the list
+m found
+d found
+Condition found:  do()
+m found
+Number found:  349
+Number found:  117
+Closing brace found
+Complete sequence would be: mul(349, 117)
+Adding this combination to the list
+m found
+m found
+m found
+Number found:  304
+Number found:  66
+Closing brace found
+Complete sequence would be: mul(304, 66)
+Adding this combination to the list
+m found
+Number found:  598
+Number found:  654
+Closing brace found
+Complete sequence would be: mul(598, 654)
+Adding this combination to the list
+m found
+Number found:  660
+Number found:  67
+Closing brace found
+Complete sequence would be: mul(660, 67)
+Adding this combination to the list
+m found
+Number found:  977
+Number found:  328
+Closing brace found
+Complete sequence would be: mul(977, 328)
+Adding this combination to the list
+m found
+Number found:  728
+Number found:  941
+Closing brace found
+Complete sequence would be: mul(728, 941)
+Adding this combination to the list
+m found
+Number found:  874
+Number found:  428
+Closing brace found
+Complete sequence would be: mul(874, 428)
+Adding this combination to the list
+m found
+Number found:  789
+Number found:  631
+Closing brace found
+Complete sequence would be: mul(789, 631)
+Adding this combination to the list
+m found
+Number found:  704
+Number found:  887
+Closing brace found
+Complete sequence would be: mul(704, 887)
+Adding this combination to the list
+m found
+Number found:  53
+Number found:  94
+Closing brace found
+Complete sequence would be: mul(53, 94)
+Adding this combination to the list
+m found
+Number found:  455
+Number found:  519
+Closing brace found
+Complete sequence would be: mul(455, 519)
+Adding this combination to the list
+m found
+Number found:  385
+Number found:  498
+Closing brace found
+Complete sequence would be: mul(385, 498)
+Adding this combination to the list
+m found
+Number found:  93
+Number found:  328
+Closing brace found
+Complete sequence would be: mul(93, 328)
+Adding this combination to the list
+m found
+Invalid number found:  293(
+m found
+Number found:  13
+Number found:  796
+Closing brace found
+Complete sequence would be: mul(13, 796)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+m found
+Number found:  264
+Number found:  546
+Closing brace found
+Complete sequence would be: mul(264, 546)
+Adding this combination to the list
+m found
+Number found:  493
+Number found:  128
+Closing brace found
+Complete sequence would be: mul(493, 128)
+Adding this combination to the list
+m found
+Number found:  343
+Number found:  192
+Closing brace found
+Complete sequence would be: mul(343, 192)
+Adding this combination to the list
+m found
+Number found:  293
+Number found:  584
+Closing brace found
+Complete sequence would be: mul(293, 584)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  664
+Number found:  643
+Closing brace found
+Complete sequence would be: mul(664, 643)
+Adding this combination to the list
+m found
+Number found:  88
+Number found:  656
+Closing brace found
+Complete sequence would be: mul(88, 656)
+Adding this combination to the list
+m found
+Number found:  866
+Number found:  302
+Closing brace found
+Complete sequence would be: mul(866, 302)
+Adding this combination to the list
+m found
+Number found:  631
+Number found:  787
+Closing brace found
+Complete sequence would be: mul(631, 787)
+Adding this combination to the list
+m found
+Number found:  364
+Number found:  274
+Closing brace found
+Complete sequence would be: mul(364, 274)
+Adding this combination to the list
+m found
+Number found:  800
+Number found:  243
+Closing brace found
+Complete sequence would be: mul(800, 243)
+Adding this combination to the list
+m found
+Number found:  734
+Number found:  189
+Closing brace found
+Complete sequence would be: mul(734, 189)
+Adding this combination to the list
+m found
+m found
+Number found:  632
+Number found:  756
+Closing brace found
+Complete sequence would be: mul(632, 756)
+Adding this combination to the list
+m found
+Number found:  703
+Number found:  564
+Closing brace found
+Complete sequence would be: mul(703, 564)
+Adding this combination to the list
+m found
+Number found:  301
+Number found:  300
+Closing brace found
+Complete sequence would be: mul(301, 300)
+Adding this combination to the list
+m found
+Number found:  22
+Number found:  780
+Closing brace found
+Complete sequence would be: mul(22, 780)
+Adding this combination to the list
+m found
+Number found:  238
+Number found:  202
+Closing brace found
+Complete sequence would be: mul(238, 202)
+Adding this combination to the list
+m found
+Number found:  908
+Number found:  498
+Closing brace found
+Complete sequence would be: mul(908, 498)
+Adding this combination to the list
+m found
+Number found:  682
+Number found:  551
+Closing brace found
+Complete sequence would be: mul(682, 551)
+Adding this combination to the list
+m found
+Number found:  573
+Number found:  36
+Closing brace found
+Complete sequence would be: mul(573, 36)
+Adding this combination to the list
+m found
+Number found:  774
+Number found:  834
+Closing brace found
+Complete sequence would be: mul(774, 834)
+Adding this combination to the list
+m found
+m found
+Number found:  969
+Number found:  63
+Closing brace found
+Complete sequence would be: mul(969, 63)
+Adding this combination to the list
+m found
+Number found:  887
+Number found:  388
+Closing brace found
+Complete sequence would be: mul(887, 388)
+Adding this combination to the list
+m found
+m found
+Number found:  134
+Number found:  297
+Closing brace found
+Complete sequence would be: mul(134, 297)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+m found
+Number found:  679
+Number found:  478
+Closing brace found
+Complete sequence would be: mul(679, 478)
+Skipping this combination, since we found dont()
+m found
+Number found:  435
+Number found:  924
+Closing brace found
+Complete sequence would be: mul(435, 924)
+Skipping this combination, since we found dont()
+m found
+Number found:  840
+Number found:  427
+Closing brace found
+Complete sequence would be: mul(840, 427)
+Skipping this combination, since we found dont()
+m found
+Number found:  188
+Number found:  195
+Closing brace found
+Complete sequence would be: mul(188, 195)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  187
+Number found:  258
+Closing brace found
+Complete sequence would be: mul(187, 258)
+Skipping this combination, since we found dont()
+m found
+Number found:  488
+Number found:  233
+Closing brace found
+Complete sequence would be: mul(488, 233)
+Skipping this combination, since we found dont()
+m found
+Number found:  567
+Number found:  681
+Closing brace found
+Complete sequence would be: mul(567, 681)
+Skipping this combination, since we found dont()
+m found
+Number found:  72
+Number found:  236
+Closing brace found
+Complete sequence would be: mul(72, 236)
+Skipping this combination, since we found dont()
+m found
+Number found:  44
+Number found:  340
+Closing brace found
+Complete sequence would be: mul(44, 340)
+Skipping this combination, since we found dont()
+m found
+Number found:  480
+Number found:  990
+Closing brace found
+Complete sequence would be: mul(480, 990)
+Skipping this combination, since we found dont()
+m found
+Invalid number found:  318}
+m found
+Number found:  951
+Number found:  330
+Closing brace found
+Complete sequence would be: mul(951, 330)
+Skipping this combination, since we found dont()
+m found
+Number found:  474
+Number found:  877
+Closing brace found
+Complete sequence would be: mul(474, 877)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  123
+Number found:  577
+Closing brace found
+Complete sequence would be: mul(123, 577)
+Skipping this combination, since we found dont()
+m found
+Number found:  828
+Number found:  17
+Closing brace found
+Complete sequence would be: mul(828, 17)
+Skipping this combination, since we found dont()
+m found
+Number found:  346
+Number found:  649
+Closing brace found
+Complete sequence would be: mul(346, 649)
+Skipping this combination, since we found dont()
+m found
+Number found:  568
+Number found:  77
+Closing brace found
+Complete sequence would be: mul(568, 77)
+Skipping this combination, since we found dont()
+m found
+Number found:  582
+Number found:  991
+Closing brace found
+Complete sequence would be: mul(582, 991)
+Skipping this combination, since we found dont()
+m found
+m found
+m found
+Number found:  93
+Number found:  912
+Closing brace found
+Complete sequence would be: mul(93, 912)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  656
+Number found:  124
+Closing brace found
+Complete sequence would be: mul(656, 124)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+m found
+m found
+Number found:  660
+Number found:  451
+Closing brace found
+Complete sequence would be: mul(660, 451)
+Adding this combination to the list
+m found
+Number found:  642
+Number found:  281
+Closing brace found
+Complete sequence would be: mul(642, 281)
+Adding this combination to the list
+m found
+Number found:  690
+Number found:  722
+Closing brace found
+Complete sequence would be: mul(690, 722)
+Adding this combination to the list
+m found
+Number found:  545
+Number found:  305
+Closing brace found
+Complete sequence would be: mul(545, 305)
+Adding this combination to the list
+m found
+m found
+Number found:  640
+Number found:  100
+Closing brace found
+Complete sequence would be: mul(640, 100)
+Adding this combination to the list
+m found
+Number found:  333
+Number found:  982
+Closing brace found
+Complete sequence would be: mul(333, 982)
+Adding this combination to the list
+m found
+m found
+Number found:  720
+Invalid number found:  343<
+m found
+Number found:  80
+Number found:  745
+Closing brace found
+Complete sequence would be: mul(80, 745)
+Adding this combination to the list
+m found
+Invalid number found:  595~
+m found
+Number found:  344
+Number found:  493
+Closing brace found
+Complete sequence would be: mul(344, 493)
+Adding this combination to the list
+m found
+Number found:  730
+Number found:  701
+Closing brace found
+Complete sequence would be: mul(730, 701)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  670
+Number found:  136
+Closing brace found
+Complete sequence would be: mul(670, 136)
+Skipping this combination, since we found dont()
+m found
+Number found:  772
+Number found:  839
+Closing brace found
+Complete sequence would be: mul(772, 839)
+Skipping this combination, since we found dont()
+m found
+d found
+Condition found:  do()
+m found
+Invalid number found:  832s
+m found
+m found
+Number found:  226
+Number found:  613
+Closing brace found
+Complete sequence would be: mul(226, 613)
+Adding this combination to the list
+m found
+m found
+Number found:  17
+Number found:  675
+Closing brace found
+Complete sequence would be: mul(17, 675)
+Adding this combination to the list
+m found
+Invalid number found:  914 
+m found
+Number found:  742
+Number found:  231
+Closing brace found
+Complete sequence would be: mul(742, 231)
+Adding this combination to the list
+m found
+Number found:  939
+Number found:  499
+Closing brace found
+Complete sequence would be: mul(939, 499)
+Adding this combination to the list
+m found
+Number found:  886
+Number found:  585
+Closing brace found
+Complete sequence would be: mul(886, 585)
+Adding this combination to the list
+m found
+Number found:  981
+Number found:  9
+Closing brace found
+Complete sequence would be: mul(981, 9)
+Adding this combination to the list
+m found
+Number found:  419
+Number found:  998
+Closing brace found
+Complete sequence would be: mul(419, 998)
+Adding this combination to the list
+m found
+Number found:  956
+Number found:  749
+Closing brace found
+Complete sequence would be: mul(956, 749)
+Adding this combination to the list
+m found
+Number found:  833
+Number found:  88
+Closing brace found
+Complete sequence would be: mul(833, 88)
+Adding this combination to the list
+m found
+Number found:  479
+Number found:  932
+Closing brace found
+Complete sequence would be: mul(479, 932)
+Adding this combination to the list
+m found
+m found
+Number found:  346
+Number found:  663
+Closing brace found
+Complete sequence would be: mul(346, 663)
+Adding this combination to the list
+m found
+Number found:  884
+Number found:  485
+Closing brace found
+Complete sequence would be: mul(884, 485)
+Adding this combination to the list
+m found
+m found
+m found
+Number found:  674
+Number found:  41
+Closing brace found
+Complete sequence would be: mul(674, 41)
+Adding this combination to the list
+m found
+Number found:  729
+Number found:  49
+Closing brace found
+Complete sequence would be: mul(729, 49)
+Adding this combination to the list
+m found
+Number found:  650
+Number found:  61
+Closing brace found
+Complete sequence would be: mul(650, 61)
+Adding this combination to the list
+m found
+m found
+m found
+Number found:  754
+Number found:  933
+Closing brace found
+Complete sequence would be: mul(754, 933)
+Adding this combination to the list
+m found
+Number found:  282
+Number found:  10
+Closing brace found
+Complete sequence would be: mul(282, 10)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  964
+Number found:  456
+Closing brace found
+Complete sequence would be: mul(964, 456)
+Adding this combination to the list
+m found
+Invalid number found:  583}
+m found
+Number found:  476
+Number found:  807
+Closing brace found
+Complete sequence would be: mul(476, 807)
+Adding this combination to the list
+m found
+Number found:  227
+Number found:  838
+Closing brace found
+Complete sequence would be: mul(227, 838)
+Adding this combination to the list
+m found
+Number found:  339
+Number found:  718
+Closing brace found
+Complete sequence would be: mul(339, 718)
+Adding this combination to the list
+m found
+m found
+Number found:  953
+Number found:  984
+Closing brace found
+Complete sequence would be: mul(953, 984)
+Adding this combination to the list
+m found
+Number found:  999
+Number found:  724
+Closing brace found
+Complete sequence would be: mul(999, 724)
+Adding this combination to the list
+m found
+Number found:  43
+Number found:  842
+Closing brace found
+Complete sequence would be: mul(43, 842)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  803
+Number found:  31
+Closing brace found
+Complete sequence would be: mul(803, 31)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  134
+Number found:  795
+Closing brace found
+Complete sequence would be: mul(134, 795)
+Skipping this combination, since we found dont()
+m found
+Number found:  237
+Number found:  729
+Closing brace found
+Complete sequence would be: mul(237, 729)
+Skipping this combination, since we found dont()
+m found
+Number found:  41
+Number found:  980
+Closing brace found
+Complete sequence would be: mul(41, 980)
+Skipping this combination, since we found dont()
+m found
+Number found:  835
+Number found:  273
+Closing brace found
+Complete sequence would be: mul(835, 273)
+Skipping this combination, since we found dont()
+m found
+Number found:  23
+Number found:  904
+Closing brace found
+Complete sequence would be: mul(23, 904)
+Skipping this combination, since we found dont()
+m found
+Number found:  969
+Number found:  17
+Closing brace found
+Complete sequence would be: mul(969, 17)
+Skipping this combination, since we found dont()
+m found
+Number found:  461
+Number found:  814
+Closing brace found
+Complete sequence would be: mul(461, 814)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  759
+Number found:  464
+Closing brace found
+Complete sequence would be: mul(759, 464)
+Skipping this combination, since we found dont()
+m found
+Number found:  322
+Number found:  326
+Closing brace found
+Complete sequence would be: mul(322, 326)
+Skipping this combination, since we found dont()
+m found
+Number found:  60
+Number found:  312
+Closing brace found
+Complete sequence would be: mul(60, 312)
+Skipping this combination, since we found dont()
+m found
+Number found:  464
+Number found:  962
+Closing brace found
+Complete sequence would be: mul(464, 962)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  703
+Number found:  738
+Closing brace found
+Complete sequence would be: mul(703, 738)
+Skipping this combination, since we found dont()
+m found
+Number found:  127
+Number found:  451
+Closing brace found
+Complete sequence would be: mul(127, 451)
+Skipping this combination, since we found dont()
+m found
+Number found:  181
+Number found:  460
+Closing brace found
+Complete sequence would be: mul(181, 460)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  662
+Number found:  853
+Closing brace found
+Complete sequence would be: mul(662, 853)
+Adding this combination to the list
+m found
+Number found:  776
+Number found:  981
+Closing brace found
+Complete sequence would be: mul(776, 981)
+Adding this combination to the list
+m found
+Number found:  624
+Number found:  583
+Closing brace found
+Complete sequence would be: mul(624, 583)
+Adding this combination to the list
+m found
+m found
+Number found:  115
+Number found:  696
+Closing brace found
+Complete sequence would be: mul(115, 696)
+Adding this combination to the list
+m found
+Number found:  873
+Number found:  420
+Closing brace found
+Complete sequence would be: mul(873, 420)
+Adding this combination to the list
+m found
+Number found:  136
+Number found:  123
+Closing brace found
+Complete sequence would be: mul(136, 123)
+Adding this combination to the list
+m found
+Number found:  514
+Number found:  998
+Closing brace found
+Complete sequence would be: mul(514, 998)
+Adding this combination to the list
+m found
+Number found:  175
+Number found:  609
+Closing brace found
+Complete sequence would be: mul(175, 609)
+Adding this combination to the list
+m found
+Number found:  53
+Number found:  892
+Closing brace found
+Complete sequence would be: mul(53, 892)
+Adding this combination to the list
+m found
+Number found:  750
+Number found:  639
+Closing brace found
+Complete sequence would be: mul(750, 639)
+Adding this combination to the list
+m found
+Number found:  99
+Number found:  208
+Closing brace found
+Complete sequence would be: mul(99, 208)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  107
+Number found:  296
+Closing brace found
+Complete sequence would be: mul(107, 296)
+Skipping this combination, since we found dont()
+m found
+Number found:  373
+Invalid number found:  967[
+m found
+Number found:  281
+Number found:  521
+Closing brace found
+Complete sequence would be: mul(281, 521)
+Skipping this combination, since we found dont()
+m found
+Invalid number found:  465{
+m found
+m found
+Number found:  508
+Number found:  718
+Closing brace found
+Complete sequence would be: mul(508, 718)
+Skipping this combination, since we found dont()
+m found
+Number found:  458
+Number found:  739
+Closing brace found
+Complete sequence would be: mul(458, 739)
+Skipping this combination, since we found dont()
+m found
+Number found:  551
+Number found:  251
+Closing brace found
+Complete sequence would be: mul(551, 251)
+Skipping this combination, since we found dont()
+m found
+Invalid number found:  906!
+m found
+Number found:  895
+Number found:  95
+Closing brace found
+Complete sequence would be: mul(895, 95)
+Skipping this combination, since we found dont()
+m found
+Number found:  593
+Number found:  11
+Closing brace found
+Complete sequence would be: mul(593, 11)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  423
+Number found:  287
+Closing brace found
+Complete sequence would be: mul(423, 287)
+Skipping this combination, since we found dont()
+m found
+m found
+m found
+Number found:  854
+Number found:  833
+Closing brace found
+Complete sequence would be: mul(854, 833)
+Skipping this combination, since we found dont()
+m found
+Number found:  167
+Number found:  269
+Closing brace found
+Complete sequence would be: mul(167, 269)
+Skipping this combination, since we found dont()
+m found
+Number found:  226
+Number found:  350
+Closing brace found
+Complete sequence would be: mul(226, 350)
+Skipping this combination, since we found dont()
+m found
+Number found:  745
+Number found:  993
+Closing brace found
+Complete sequence would be: mul(745, 993)
+Skipping this combination, since we found dont()
+m found
+Number found:  827
+Number found:  736
+Closing brace found
+Complete sequence would be: mul(827, 736)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  192
+Number found:  429
+Closing brace found
+Complete sequence would be: mul(192, 429)
+Skipping this combination, since we found dont()
+m found
+Number found:  847
+Number found:  188
+Closing brace found
+Complete sequence would be: mul(847, 188)
+Skipping this combination, since we found dont()
+m found
+Number found:  141
+Number found:  869
+Closing brace found
+Complete sequence would be: mul(141, 869)
+Skipping this combination, since we found dont()
+m found
+Number found:  848
+Number found:  705
+Closing brace found
+Complete sequence would be: mul(848, 705)
+Skipping this combination, since we found dont()
+m found
+Number found:  559
+Number found:  567
+Closing brace found
+Complete sequence would be: mul(559, 567)
+Skipping this combination, since we found dont()
+m found
+d found
+Condition found:  don't()
+m found
+Number found:  105
+Number found:  363
+Closing brace found
+Complete sequence would be: mul(105, 363)
+Skipping this combination, since we found dont()
+m found
+Number found:  881
+Number found:  376
+Closing brace found
+Complete sequence would be: mul(881, 376)
+Skipping this combination, since we found dont()
+m found
+Number found:  695
+Number found:  809
+Closing brace found
+Complete sequence would be: mul(695, 809)
+Skipping this combination, since we found dont()
+m found
+Number found:  364
+Number found:  248
+Closing brace found
+Complete sequence would be: mul(364, 248)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  804
+Number found:  4
+Closing brace found
+Complete sequence would be: mul(804, 4)
+Skipping this combination, since we found dont()
+m found
+Number found:  119
+Number found:  641
+Closing brace found
+Complete sequence would be: mul(119, 641)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  712
+Number found:  534
+Closing brace found
+Complete sequence would be: mul(712, 534)
+Skipping this combination, since we found dont()
+m found
+Number found:  123
+Number found:  22
+Closing brace found
+Complete sequence would be: mul(123, 22)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  772
+Number found:  667
+Closing brace found
+Complete sequence would be: mul(772, 667)
+Skipping this combination, since we found dont()
+m found
+Number found:  42
+Number found:  86
+Closing brace found
+Complete sequence would be: mul(42, 86)
+Skipping this combination, since we found dont()
+m found
+Number found:  622
+Invalid number found:  677s
+m found
+Number found:  580
+Number found:  723
+Closing brace found
+Complete sequence would be: mul(580, 723)
+Skipping this combination, since we found dont()
+m found
+Number found:  751
+Number found:  301
+Closing brace found
+Complete sequence would be: mul(751, 301)
+Skipping this combination, since we found dont()
+m found
+Number found:  171
+Number found:  677
+Closing brace found
+Complete sequence would be: mul(171, 677)
+Skipping this combination, since we found dont()
+m found
+Number found:  661
+Number found:  374
+Closing brace found
+Complete sequence would be: mul(661, 374)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Invalid number found:  840?
+m found
+Number found:  226
+Number found:  734
+Closing brace found
+Complete sequence would be: mul(226, 734)
+Skipping this combination, since we found dont()
+m found
+Number found:  299
+Number found:  672
+Closing brace found
+Complete sequence would be: mul(299, 672)
+Skipping this combination, since we found dont()
+m found
+Number found:  625
+Number found:  138
+Closing brace found
+Complete sequence would be: mul(625, 138)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  632
+Number found:  537
+Closing brace found
+Complete sequence would be: mul(632, 537)
+Skipping this combination, since we found dont()
+m found
+Number found:  843
+Number found:  911
+Closing brace found
+Complete sequence would be: mul(843, 911)
+Skipping this combination, since we found dont()
+m found
+Number found:  971
+Number found:  930
+Closing brace found
+Complete sequence would be: mul(971, 930)
+Skipping this combination, since we found dont()
+m found
+m found
+m found
+m found
+Number found:  379
+Number found:  738
+Closing brace found
+Complete sequence would be: mul(379, 738)
+Skipping this combination, since we found dont()
+m found
+Number found:  605
+Number found:  986
+Closing brace found
+Complete sequence would be: mul(605, 986)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  923
+Number found:  617
+Closing brace found
+Complete sequence would be: mul(923, 617)
+Adding this combination to the list
+m found
+m found
+Number found:  912
+Number found:  466
+Closing brace found
+Complete sequence would be: mul(912, 466)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  560
+Number found:  180
+Closing brace found
+Complete sequence would be: mul(560, 180)
+Adding this combination to the list
+m found
+Number found:  733
+Number found:  333
+Closing brace found
+Complete sequence would be: mul(733, 333)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+m found
+Number found:  732
+Number found:  663
+Closing brace found
+Complete sequence would be: mul(732, 663)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  27
+Number found:  646
+Closing brace found
+Complete sequence would be: mul(27, 646)
+Skipping this combination, since we found dont()
+m found
+Number found:  274
+Number found:  404
+Closing brace found
+Complete sequence would be: mul(274, 404)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  802
+Number found:  218
+Closing brace found
+Complete sequence would be: mul(802, 218)
+Adding this combination to the list
+m found
+Number found:  617
+Number found:  216
+Closing brace found
+Complete sequence would be: mul(617, 216)
+Adding this combination to the list
+m found
+Number found:  175
+Number found:  451
+Closing brace found
+Complete sequence would be: mul(175, 451)
+Adding this combination to the list
+m found
+Number found:  690
+Number found:  299
+Closing brace found
+Complete sequence would be: mul(690, 299)
+Adding this combination to the list
+m found
+Number found:  160
+Number found:  763
+Closing brace found
+Complete sequence would be: mul(160, 763)
+Adding this combination to the list
+m found
+Number found:  640
+Number found:  728
+Closing brace found
+Complete sequence would be: mul(640, 728)
+Adding this combination to the list
+m found
+m found
+Number found:  372
+Number found:  201
+Closing brace found
+Complete sequence would be: mul(372, 201)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  885
+Number found:  967
+Closing brace found
+Complete sequence would be: mul(885, 967)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  468
+Number found:  424
+Closing brace found
+Complete sequence would be: mul(468, 424)
+Skipping this combination, since we found dont()
+m found
+Number found:  760
+Number found:  645
+Closing brace found
+Complete sequence would be: mul(760, 645)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  334
+Number found:  129
+Closing brace found
+Complete sequence would be: mul(334, 129)
+Skipping this combination, since we found dont()
+m found
+Number found:  305
+Number found:  664
+Closing brace found
+Complete sequence would be: mul(305, 664)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  58
+Number found:  303
+Closing brace found
+Complete sequence would be: mul(58, 303)
+Adding this combination to the list
+m found
+Number found:  139
+Number found:  488
+Closing brace found
+Complete sequence would be: mul(139, 488)
+Adding this combination to the list
+m found
+Number found:  334
+Invalid number found:  516*
+d found
+Condition found:  don't()
+m found
+Number found:  362
+Number found:  131
+Closing brace found
+Complete sequence would be: mul(362, 131)
+Skipping this combination, since we found dont()
+m found
+Number found:  269
+Number found:  256
+Closing brace found
+Complete sequence would be: mul(269, 256)
+Skipping this combination, since we found dont()
+m found
+Number found:  413
+Number found:  139
+Closing brace found
+Complete sequence would be: mul(413, 139)
+Skipping this combination, since we found dont()
+m found
+Number found:  982
+Number found:  406
+Closing brace found
+Complete sequence would be: mul(982, 406)
+Skipping this combination, since we found dont()
+m found
+Number found:  165
+Number found:  136
+Closing brace found
+Complete sequence would be: mul(165, 136)
+Skipping this combination, since we found dont()
+m found
+Number found:  616
+Number found:  183
+Closing brace found
+Complete sequence would be: mul(616, 183)
+Skipping this combination, since we found dont()
+m found
+Number found:  481
+Number found:  602
+Closing brace found
+Complete sequence would be: mul(481, 602)
+Skipping this combination, since we found dont()
+m found
+Number found:  656
+Invalid number found:  338w
+m found
+Number found:  955
+Number found:  919
+Closing brace found
+Complete sequence would be: mul(955, 919)
+Skipping this combination, since we found dont()
+m found
+Number found:  138
+Number found:  856
+Closing brace found
+Complete sequence would be: mul(138, 856)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  473
+Number found:  439
+Closing brace found
+Complete sequence would be: mul(473, 439)
+Skipping this combination, since we found dont()
+m found
+Number found:  676
+Number found:  123
+Closing brace found
+Complete sequence would be: mul(676, 123)
+Skipping this combination, since we found dont()
+m found
+Number found:  804
+Number found:  539
+Closing brace found
+Complete sequence would be: mul(804, 539)
+Skipping this combination, since we found dont()
+m found
+Number found:  748
+Number found:  674
+Closing brace found
+Complete sequence would be: mul(748, 674)
+Skipping this combination, since we found dont()
+m found
+Number found:  204
+Invalid number found:  987!
+m found
+Number found:  677
+Number found:  349
+Closing brace found
+Complete sequence would be: mul(677, 349)
+Skipping this combination, since we found dont()
+m found
+Number found:  194
+Number found:  35
+Closing brace found
+Complete sequence would be: mul(194, 35)
+Skipping this combination, since we found dont()
+m found
+Number found:  127
+Number found:  110
+Closing brace found
+Complete sequence would be: mul(127, 110)
+Skipping this combination, since we found dont()
+m found
+Number found:  596
+Number found:  30
+Closing brace found
+Complete sequence would be: mul(596, 30)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  167
+Number found:  577
+Closing brace found
+Complete sequence would be: mul(167, 577)
+Adding this combination to the list
+m found
+d found
+Condition found:  do()
+m found
+Number found:  981
+Number found:  462
+Closing brace found
+Complete sequence would be: mul(981, 462)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  387
+Number found:  979
+Closing brace found
+Complete sequence would be: mul(387, 979)
+Adding this combination to the list
+m found
+Number found:  387
+Number found:  101
+Closing brace found
+Complete sequence would be: mul(387, 101)
+Adding this combination to the list
+m found
+Number found:  501
+Number found:  522
+Closing brace found
+Complete sequence would be: mul(501, 522)
+Adding this combination to the list
+m found
+Number found:  383
+Number found:  636
+Closing brace found
+Complete sequence would be: mul(383, 636)
+Adding this combination to the list
+m found
+Number found:  939
+Number found:  604
+Closing brace found
+Complete sequence would be: mul(939, 604)
+Adding this combination to the list
+m found
+Number found:  316
+Number found:  431
+Closing brace found
+Complete sequence would be: mul(316, 431)
+Adding this combination to the list
+m found
+Number found:  220
+Number found:  730
+Closing brace found
+Complete sequence would be: mul(220, 730)
+Adding this combination to the list
+m found
+Invalid number found:  329 
+m found
+Number found:  864
+Number found:  202
+Closing brace found
+Complete sequence would be: mul(864, 202)
+Adding this combination to the list
+m found
+m found
+m found
+m found
+Number found:  806
+Number found:  858
+Closing brace found
+Complete sequence would be: mul(806, 858)
+Adding this combination to the list
+m found
+Number found:  892
+Number found:  860
+Closing brace found
+Complete sequence would be: mul(892, 860)
+Adding this combination to the list
+m found
+Number found:  565
+Number found:  627
+Closing brace found
+Complete sequence would be: mul(565, 627)
+Adding this combination to the list
+m found
+Number found:  320
+Number found:  275
+Closing brace found
+Complete sequence would be: mul(320, 275)
+Adding this combination to the list
+m found
+Number found:  183
+Number found:  360
+Closing brace found
+Complete sequence would be: mul(183, 360)
+Adding this combination to the list
+m found
+m found
+Number found:  270
+Number found:  366
+Closing brace found
+Complete sequence would be: mul(270, 366)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  491
+Number found:  377
+Closing brace found
+Complete sequence would be: mul(491, 377)
+Adding this combination to the list
+m found
+Number found:  478
+Number found:  743
+Closing brace found
+Complete sequence would be: mul(478, 743)
+Adding this combination to the list
+m found
+Number found:  464
+Number found:  509
+Closing brace found
+Complete sequence would be: mul(464, 509)
+Adding this combination to the list
+m found
+Number found:  837
+Number found:  217
+Closing brace found
+Complete sequence would be: mul(837, 217)
+Adding this combination to the list
+m found
+Number found:  921
+Number found:  229
+Closing brace found
+Complete sequence would be: mul(921, 229)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+m found
+Number found:  45
+Number found:  689
+Closing brace found
+Complete sequence would be: mul(45, 689)
+Adding this combination to the list
+m found
+Number found:  903
+Number found:  906
+Closing brace found
+Complete sequence would be: mul(903, 906)
+Adding this combination to the list
+m found
+Number found:  213
+Number found:  893
+Closing brace found
+Complete sequence would be: mul(213, 893)
+Adding this combination to the list
+m found
+m found
+Number found:  47
+Number found:  426
+Closing brace found
+Complete sequence would be: mul(47, 426)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  514
+Number found:  953
+Closing brace found
+Complete sequence would be: mul(514, 953)
+Adding this combination to the list
+m found
+Number found:  143
+Number found:  932
+Closing brace found
+Complete sequence would be: mul(143, 932)
+Adding this combination to the list
+m found
+Number found:  990
+Number found:  283
+Closing brace found
+Complete sequence would be: mul(990, 283)
+Adding this combination to the list
+m found
+Number found:  755
+Number found:  667
+Closing brace found
+Complete sequence would be: mul(755, 667)
+Adding this combination to the list
+m found
+Number found:  474
+Number found:  41
+Closing brace found
+Complete sequence would be: mul(474, 41)
+Adding this combination to the list
+End of line reached, reading next line
+m found
+Number found:  224
+Number found:  420
+Closing brace found
+Complete sequence would be: mul(224, 420)
+Adding this combination to the list
+m found
+m found
+Invalid number found:  244}
+m found
+Number found:  789
+Number found:  459
+Closing brace found
+Complete sequence would be: mul(789, 459)
+Adding this combination to the list
+m found
+m found
+Number found:  466
+Number found:  822
+Closing brace found
+Complete sequence would be: mul(466, 822)
+Adding this combination to the list
+m found
+Number found:  263
+Number found:  647
+Closing brace found
+Complete sequence would be: mul(263, 647)
+Adding this combination to the list
+m found
+Number found:  570
+Number found:  585
+Closing brace found
+Complete sequence would be: mul(570, 585)
+Adding this combination to the list
+m found
+Number found:  474
+Number found:  591
+Closing brace found
+Complete sequence would be: mul(474, 591)
+Adding this combination to the list
+m found
+Number found:  2
+Number found:  90
+Closing brace found
+Complete sequence would be: mul(2, 90)
+Adding this combination to the list
+m found
+Invalid number found:  899w
+m found
+Number found:  517
+Number found:  561
+Closing brace found
+Complete sequence would be: mul(517, 561)
+Adding this combination to the list
+m found
+Number found:  510
+Number found:  855
+Closing brace found
+Complete sequence would be: mul(510, 855)
+Adding this combination to the list
+m found
+m found
+Number found:  485
+Number found:  191
+Closing brace found
+Complete sequence would be: mul(485, 191)
+Adding this combination to the list
+m found
+Number found:  238
+Number found:  765
+Closing brace found
+Complete sequence would be: mul(238, 765)
+Adding this combination to the list
+m found
+Number found:  606
+Number found:  527
+Closing brace found
+Complete sequence would be: mul(606, 527)
+Adding this combination to the list
+m found
+Number found:  446
+Number found:  167
+Closing brace found
+Complete sequence would be: mul(446, 167)
+Adding this combination to the list
+m found
+Number found:  445
+Number found:  372
+Closing brace found
+Complete sequence would be: mul(445, 372)
+Adding this combination to the list
+m found
+Number found:  142
+Number found:  440
+Closing brace found
+Complete sequence would be: mul(142, 440)
+Adding this combination to the list
+m found
+Number found:  687
+Number found:  94
+Closing brace found
+Complete sequence would be: mul(687, 94)
+Adding this combination to the list
+m found
+Number found:  297
+Number found:  299
+Closing brace found
+Complete sequence would be: mul(297, 299)
+Adding this combination to the list
+m found
+Number found:  381
+Number found:  157
+Closing brace found
+Complete sequence would be: mul(381, 157)
+Adding this combination to the list
+m found
+Number found:  711
+Number found:  860
+Closing brace found
+Complete sequence would be: mul(711, 860)
+Adding this combination to the list
+m found
+m found
+Number found:  18
+Number found:  464
+Closing brace found
+Complete sequence would be: mul(18, 464)
+Adding this combination to the list
+m found
+Number found:  340
+Number found:  143
+Closing brace found
+Complete sequence would be: mul(340, 143)
+Adding this combination to the list
+m found
+Number found:  698
+Number found:  326
+Closing brace found
+Complete sequence would be: mul(698, 326)
+Adding this combination to the list
+m found
+Number found:  98
+Invalid number found:  26{
+m found
+Number found:  185
+Number found:  42
+Closing brace found
+Complete sequence would be: mul(185, 42)
+Adding this combination to the list
+m found
+Number found:  717
+Number found:  45
+Closing brace found
+Complete sequence would be: mul(717, 45)
+Adding this combination to the list
+m found
+Number found:  268
+Number found:  887
+Closing brace found
+Complete sequence would be: mul(268, 887)
+Adding this combination to the list
+m found
+Number found:  896
+Number found:  967
+Closing brace found
+Complete sequence would be: mul(896, 967)
+Adding this combination to the list
+m found
+Number found:  29
+Number found:  886
+Closing brace found
+Complete sequence would be: mul(29, 886)
+Adding this combination to the list
+m found
+m found
+Number found:  802
+Number found:  796
+Closing brace found
+Complete sequence would be: mul(802, 796)
+Adding this combination to the list
+m found
+m found
+Number found:  373
+Number found:  685
+Closing brace found
+Complete sequence would be: mul(373, 685)
+Adding this combination to the list
+m found
+Number found:  834
+Number found:  143
+Closing brace found
+Complete sequence would be: mul(834, 143)
+Adding this combination to the list
+m found
+m found
+Number found:  30
+Number found:  941
+Closing brace found
+Complete sequence would be: mul(30, 941)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  925
+Number found:  254
+Closing brace found
+Complete sequence would be: mul(925, 254)
+Adding this combination to the list
+m found
+Number found:  516
+Number found:  742
+Closing brace found
+Complete sequence would be: mul(516, 742)
+Adding this combination to the list
+m found
+Number found:  244
+Number found:  359
+Closing brace found
+Complete sequence would be: mul(244, 359)
+Adding this combination to the list
+m found
+Number found:  458
+Number found:  20
+Closing brace found
+Complete sequence would be: mul(458, 20)
+Adding this combination to the list
+m found
+Number found:  978
+Number found:  711
+Closing brace found
+Complete sequence would be: mul(978, 711)
+Adding this combination to the list
+m found
+Number found:  402
+Number found:  128
+Closing brace found
+Complete sequence would be: mul(402, 128)
+Adding this combination to the list
+m found
+Number found:  188
+Number found:  495
+Closing brace found
+Complete sequence would be: mul(188, 495)
+Adding this combination to the list
+m found
+Number found:  62
+Number found:  537
+Closing brace found
+Complete sequence would be: mul(62, 537)
+Adding this combination to the list
+m found
+Number found:  720
+Number found:  554
+Closing brace found
+Complete sequence would be: mul(720, 554)
+Adding this combination to the list
+m found
+Number found:  888
+Number found:  389
+Closing brace found
+Complete sequence would be: mul(888, 389)
+Adding this combination to the list
+m found
+Number found:  404
+Invalid number found:  548/
+m found
+Number found:  857
+Number found:  511
+Closing brace found
+Complete sequence would be: mul(857, 511)
+Adding this combination to the list
+m found
+Number found:  900
+Number found:  41
+Closing brace found
+Complete sequence would be: mul(900, 41)
+Adding this combination to the list
+m found
+Number found:  134
+Number found:  188
+Closing brace found
+Complete sequence would be: mul(134, 188)
+Adding this combination to the list
+m found
+Number found:  140
+Number found:  747
+Closing brace found
+Complete sequence would be: mul(140, 747)
+Adding this combination to the list
+m found
+m found
+Number found:  440
+Number found:  286
+Closing brace found
+Complete sequence would be: mul(440, 286)
+Adding this combination to the list
+m found
+m found
+Number found:  677
+Invalid number found:  567:
+m found
+Number found:  406
+Number found:  675
+Closing brace found
+Complete sequence would be: mul(406, 675)
+Adding this combination to the list
+m found
+Number found:  544
+Number found:  316
+Closing brace found
+Complete sequence would be: mul(544, 316)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  583
+Number found:  24
+Closing brace found
+Complete sequence would be: mul(583, 24)
+Skipping this combination, since we found dont()
+m found
+Number found:  522
+Number found:  711
+Closing brace found
+Complete sequence would be: mul(522, 711)
+Skipping this combination, since we found dont()
+m found
+Number found:  659
+Number found:  520
+Closing brace found
+Complete sequence would be: mul(659, 520)
+Skipping this combination, since we found dont()
+m found
+Number found:  688
+Number found:  528
+Closing brace found
+Complete sequence would be: mul(688, 528)
+Skipping this combination, since we found dont()
+m found
+Number found:  951
+Number found:  800
+Closing brace found
+Complete sequence would be: mul(951, 800)
+Skipping this combination, since we found dont()
+m found
+Number found:  491
+Number found:  196
+Closing brace found
+Complete sequence would be: mul(491, 196)
+Skipping this combination, since we found dont()
+m found
+Invalid number found:  800'
+m found
+m found
+Number found:  914
+Number found:  415
+Closing brace found
+Complete sequence would be: mul(914, 415)
+Skipping this combination, since we found dont()
+m found
+Number found:  610
+Invalid number found:  36&
+m found
+m found
+Number found:  766
+Number found:  281
+Closing brace found
+Complete sequence would be: mul(766, 281)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  837
+Number found:  935
+Closing brace found
+Complete sequence would be: mul(837, 935)
+Skipping this combination, since we found dont()
+m found
+Number found:  477
+Number found:  874
+Closing brace found
+Complete sequence would be: mul(477, 874)
+Skipping this combination, since we found dont()
+m found
+Number found:  764
+Number found:  685
+Closing brace found
+Complete sequence would be: mul(764, 685)
+Skipping this combination, since we found dont()
+m found
+Number found:  162
+Number found:  27
+Closing brace found
+Complete sequence would be: mul(162, 27)
+Skipping this combination, since we found dont()
+m found
+Number found:  64
+Number found:  768
+Closing brace found
+Complete sequence would be: mul(64, 768)
+Skipping this combination, since we found dont()
+m found
+Number found:  172
+Number found:  905
+Closing brace found
+Complete sequence would be: mul(172, 905)
+Skipping this combination, since we found dont()
+m found
+Number found:  686
+Number found:  898
+Closing brace found
+Complete sequence would be: mul(686, 898)
+Skipping this combination, since we found dont()
+m found
+Number found:  498
+Number found:  986
+Closing brace found
+Complete sequence would be: mul(498, 986)
+Skipping this combination, since we found dont()
+m found
+Number found:  643
+Number found:  131
+Closing brace found
+Complete sequence would be: mul(643, 131)
+Skipping this combination, since we found dont()
+m found
+Number found:  680
+Number found:  179
+Closing brace found
+Complete sequence would be: mul(680, 179)
+Skipping this combination, since we found dont()
+m found
+Number found:  867
+Number found:  917
+Closing brace found
+Complete sequence would be: mul(867, 917)
+Skipping this combination, since we found dont()
+m found
+Number found:  123
+Number found:  614
+Closing brace found
+Complete sequence would be: mul(123, 614)
+Skipping this combination, since we found dont()
+m found
+Number found:  749
+Number found:  681
+Closing brace found
+Complete sequence would be: mul(749, 681)
+Skipping this combination, since we found dont()
+m found
+Number found:  162
+Number found:  11
+Closing brace found
+Complete sequence would be: mul(162, 11)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  170
+Number found:  845
+Closing brace found
+Complete sequence would be: mul(170, 845)
+Skipping this combination, since we found dont()
+m found
+Number found:  363
+Number found:  18
+Closing brace found
+Complete sequence would be: mul(363, 18)
+Skipping this combination, since we found dont()
+m found
+Number found:  200
+Number found:  237
+Closing brace found
+Complete sequence would be: mul(200, 237)
+Skipping this combination, since we found dont()
+m found
+Number found:  203
+Number found:  934
+Closing brace found
+Complete sequence would be: mul(203, 934)
+Skipping this combination, since we found dont()
+m found
+Number found:  942
+Number found:  540
+Closing brace found
+Complete sequence would be: mul(942, 540)
+Skipping this combination, since we found dont()
+m found
+Number found:  488
+Number found:  295
+Closing brace found
+Complete sequence would be: mul(488, 295)
+Skipping this combination, since we found dont()
+m found
+Number found:  127
+Number found:  140
+Closing brace found
+Complete sequence would be: mul(127, 140)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  347
+Number found:  470
+Closing brace found
+Complete sequence would be: mul(347, 470)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  266
+Number found:  243
+Closing brace found
+Complete sequence would be: mul(266, 243)
+Adding this combination to the list
+m found
+Number found:  247
+Number found:  211
+Closing brace found
+Complete sequence would be: mul(247, 211)
+Adding this combination to the list
+m found
+Number found:  145
+Number found:  389
+Closing brace found
+Complete sequence would be: mul(145, 389)
+Adding this combination to the list
+m found
+Invalid number found:  250&
+m found
+Number found:  382
+Number found:  956
+Closing brace found
+Complete sequence would be: mul(382, 956)
+Adding this combination to the list
+m found
+Number found:  970
+Number found:  955
+Closing brace found
+Complete sequence would be: mul(970, 955)
+Adding this combination to the list
+m found
+Number found:  310
+Number found:  784
+Closing brace found
+Complete sequence would be: mul(310, 784)
+Adding this combination to the list
+m found
+Number found:  269
+Number found:  773
+Closing brace found
+Complete sequence would be: mul(269, 773)
+Adding this combination to the list
+m found
+Number found:  584
+Number found:  906
+Closing brace found
+Complete sequence would be: mul(584, 906)
+Adding this combination to the list
+m found
+Number found:  754
+Number found:  294
+Closing brace found
+Complete sequence would be: mul(754, 294)
+Adding this combination to the list
+m found
+d found
+Condition found:  do()
+m found
+Number found:  162
+Number found:  353
+Closing brace found
+Complete sequence would be: mul(162, 353)
+Adding this combination to the list
+m found
+m found
+Number found:  324
+Number found:  434
+Closing brace found
+Complete sequence would be: mul(324, 434)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+m found
+Number found:  946
+Number found:  450
+Closing brace found
+Complete sequence would be: mul(946, 450)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  593
+Number found:  963
+Closing brace found
+Complete sequence would be: mul(593, 963)
+Adding this combination to the list
+m found
+m found
+Number found:  743
+Invalid number found:  766;
+m found
+Number found:  184
+Number found:  787
+Closing brace found
+Complete sequence would be: mul(184, 787)
+Adding this combination to the list
+m found
+Number found:  369
+Number found:  262
+Closing brace found
+Complete sequence would be: mul(369, 262)
+Adding this combination to the list
+m found
+m found
+Invalid number found:  527 
+m found
+Number found:  960
+Number found:  324
+Closing brace found
+Complete sequence would be: mul(960, 324)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  992
+Number found:  885
+Closing brace found
+Complete sequence would be: mul(992, 885)
+Adding this combination to the list
+m found
+Number found:  451
+Number found:  4
+Closing brace found
+Complete sequence would be: mul(451, 4)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  616
+Number found:  643
+Closing brace found
+Complete sequence would be: mul(616, 643)
+Skipping this combination, since we found dont()
+m found
+Number found:  112
+Invalid number found:  749w
+m found
+Number found:  774
+Number found:  235
+Closing brace found
+Complete sequence would be: mul(774, 235)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  585
+Number found:  689
+Closing brace found
+Complete sequence would be: mul(585, 689)
+Adding this combination to the list
+m found
+m found
+m found
+Number found:  921
+Number found:  985
+Closing brace found
+Complete sequence would be: mul(921, 985)
+Adding this combination to the list
+m found
+m found
+m found
+Number found:  641
+Number found:  166
+Closing brace found
+Complete sequence would be: mul(641, 166)
+Adding this combination to the list
+m found
+d found
+Condition found:  don't()
+m found
+Number found:  138
+Number found:  173
+Closing brace found
+Complete sequence would be: mul(138, 173)
+Skipping this combination, since we found dont()
+m found
+Number found:  824
+Number found:  205
+Closing brace found
+Complete sequence would be: mul(824, 205)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  262
+Number found:  910
+Closing brace found
+Complete sequence would be: mul(262, 910)
+Skipping this combination, since we found dont()
+m found
+Number found:  480
+Number found:  642
+Closing brace found
+Complete sequence would be: mul(480, 642)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  442
+Number found:  572
+Closing brace found
+Complete sequence would be: mul(442, 572)
+Skipping this combination, since we found dont()
+m found
+Number found:  610
+Number found:  184
+Closing brace found
+Complete sequence would be: mul(610, 184)
+Skipping this combination, since we found dont()
+m found
+Number found:  48
+Number found:  24
+Closing brace found
+Complete sequence would be: mul(48, 24)
+Skipping this combination, since we found dont()
+m found
+Invalid number found:  643+
+m found
+m found
+Number found:  456
+Number found:  455
+Closing brace found
+Complete sequence would be: mul(456, 455)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  600
+Number found:  532
+Closing brace found
+Complete sequence would be: mul(600, 532)
+Skipping this combination, since we found dont()
+m found
+Number found:  645
+Number found:  425
+Closing brace found
+Complete sequence would be: mul(645, 425)
+Skipping this combination, since we found dont()
+m found
+Number found:  653
+Number found:  291
+Closing brace found
+Complete sequence would be: mul(653, 291)
+Skipping this combination, since we found dont()
+m found
+Number found:  22
+Number found:  101
+Closing brace found
+Complete sequence would be: mul(22, 101)
+Skipping this combination, since we found dont()
+m found
+Number found:  413
+Number found:  88
+Closing brace found
+Complete sequence would be: mul(413, 88)
+Skipping this combination, since we found dont()
+m found
+Number found:  229
+Number found:  573
+Closing brace found
+Complete sequence would be: mul(229, 573)
+Skipping this combination, since we found dont()
+m found
+Number found:  29
+Number found:  505
+Closing brace found
+Complete sequence would be: mul(29, 505)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  856
+Number found:  38
+Closing brace found
+Complete sequence would be: mul(856, 38)
+Skipping this combination, since we found dont()
+m found
+Number found:  842
+Number found:  601
+Closing brace found
+Complete sequence would be: mul(842, 601)
+Skipping this combination, since we found dont()
+m found
+Number found:  707
+Number found:  928
+Closing brace found
+Complete sequence would be: mul(707, 928)
+Skipping this combination, since we found dont()
+m found
+Number found:  670
+Number found:  999
+Closing brace found
+Complete sequence would be: mul(670, 999)
+Skipping this combination, since we found dont()
+m found
+Number found:  929
+Number found:  284
+Closing brace found
+Complete sequence would be: mul(929, 284)
+Skipping this combination, since we found dont()
+m found
+Number found:  562
+Number found:  955
+Closing brace found
+Complete sequence would be: mul(562, 955)
+Skipping this combination, since we found dont()
+d found
+Condition found:  don't()
+m found
+Number found:  534
+Number found:  385
+Closing brace found
+Complete sequence would be: mul(534, 385)
+Skipping this combination, since we found dont()
+m found
+Number found:  706
+Number found:  170
+Closing brace found
+Complete sequence would be: mul(706, 170)
+Skipping this combination, since we found dont()
+m found
+Number found:  867
+Number found:  234
+Closing brace found
+Complete sequence would be: mul(867, 234)
+Skipping this combination, since we found dont()
+m found
+Number found:  726
+Number found:  221
+Closing brace found
+Complete sequence would be: mul(726, 221)
+Skipping this combination, since we found dont()
+m found
+Number found:  573
+Number found:  834
+Closing brace found
+Complete sequence would be: mul(573, 834)
+Skipping this combination, since we found dont()
+m found
+Number found:  754
+Invalid number found:  405h
+m found
+Number found:  93
+Number found:  454
+Closing brace found
+Complete sequence would be: mul(93, 454)
+Skipping this combination, since we found dont()
+m found
+Number found:  604
+Number found:  209
+Closing brace found
+Complete sequence would be: mul(604, 209)
+Skipping this combination, since we found dont()
+m found
+Number found:  915
+Number found:  970
+Closing brace found
+Complete sequence would be: mul(915, 970)
+Skipping this combination, since we found dont()
+m found
+Number found:  381
+Number found:  253
+Closing brace found
+Complete sequence would be: mul(381, 253)
+Skipping this combination, since we found dont()
+m found
+Number found:  287
+Invalid number found:  906}
+d found
+Condition found:  don't()
+m found
+Number found:  635
+Number found:  559
+Closing brace found
+Complete sequence would be: mul(635, 559)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  119
+Number found:  665
+Closing brace found
+Complete sequence would be: mul(119, 665)
+Skipping this combination, since we found dont()
+m found
+Number found:  702
+Number found:  720
+Closing brace found
+Complete sequence would be: mul(702, 720)
+Skipping this combination, since we found dont()
+m found
+Number found:  127
+Number found:  989
+Closing brace found
+Complete sequence would be: mul(127, 989)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  833
+Number found:  931
+Closing brace found
+Complete sequence would be: mul(833, 931)
+Skipping this combination, since we found dont()
+m found
+Number found:  165
+Number found:  144
+Closing brace found
+Complete sequence would be: mul(165, 144)
+Skipping this combination, since we found dont()
+m found
+Number found:  876
+Number found:  422
+Closing brace found
+Complete sequence would be: mul(876, 422)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  202
+Number found:  475
+Closing brace found
+Complete sequence would be: mul(202, 475)
+Skipping this combination, since we found dont()
+m found
+Number found:  25
+Number found:  855
+Closing brace found
+Complete sequence would be: mul(25, 855)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  50
+Number found:  883
+Closing brace found
+Complete sequence would be: mul(50, 883)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  944
+Number found:  216
+Closing brace found
+Complete sequence would be: mul(944, 216)
+Adding this combination to the list
+m found
+Number found:  321
+Number found:  509
+Closing brace found
+Complete sequence would be: mul(321, 509)
+Adding this combination to the list
+m found
+m found
+Number found:  743
+Number found:  426
+Closing brace found
+Complete sequence would be: mul(743, 426)
+Adding this combination to the list
+m found
+Number found:  893
+Number found:  894
+Closing brace found
+Complete sequence would be: mul(893, 894)
+Adding this combination to the list
+m found
+Number found:  978
+Number found:  976
+Closing brace found
+Complete sequence would be: mul(978, 976)
+Adding this combination to the list
+m found
+Number found:  504
+Number found:  604
+Closing brace found
+Complete sequence would be: mul(504, 604)
+Adding this combination to the list
+m found
+Number found:  196
+Number found:  555
+Closing brace found
+Complete sequence would be: mul(196, 555)
+Adding this combination to the list
+m found
+Number found:  820
+Number found:  463
+Closing brace found
+Complete sequence would be: mul(820, 463)
+Adding this combination to the list
+m found
+Number found:  497
+Number found:  730
+Closing brace found
+Complete sequence would be: mul(497, 730)
+Adding this combination to the list
+m found
+m found
+Number found:  272
+Number found:  539
+Closing brace found
+Complete sequence would be: mul(272, 539)
+Adding this combination to the list
+m found
+m found
+Number found:  542
+Number found:  203
+Closing brace found
+Complete sequence would be: mul(542, 203)
+Adding this combination to the list
+m found
+Number found:  300
+Number found:  118
+Closing brace found
+Complete sequence would be: mul(300, 118)
+Adding this combination to the list
+m found
+Number found:  769
+Number found:  400
+Closing brace found
+Complete sequence would be: mul(769, 400)
+Adding this combination to the list
+m found
+Invalid number found:  200?
+m found
+Number found:  682
+Number found:  347
+Closing brace found
+Complete sequence would be: mul(682, 347)
+Adding this combination to the list
+m found
+Number found:  264
+Number found:  922
+Closing brace found
+Complete sequence would be: mul(264, 922)
+Adding this combination to the list
+m found
+m found
+Number found:  393
+Number found:  409
+Closing brace found
+Complete sequence would be: mul(393, 409)
+Adding this combination to the list
+m found
+Number found:  36
+Number found:  369
+Closing brace found
+Complete sequence would be: mul(36, 369)
+Adding this combination to the list
+m found
+Number found:  660
+Number found:  560
+Closing brace found
+Complete sequence would be: mul(660, 560)
+Adding this combination to the list
+m found
+Number found:  815
+Invalid number found:  344 
+m found
+Number found:  752
+Number found:  637
+Closing brace found
+Complete sequence would be: mul(752, 637)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  95
+Number found:  166
+Closing brace found
+Complete sequence would be: mul(95, 166)
+Skipping this combination, since we found dont()
+m found
+Number found:  4
+Number found:  36
+Closing brace found
+Complete sequence would be: mul(4, 36)
+Skipping this combination, since we found dont()
+m found
+Number found:  716
+Number found:  650
+Closing brace found
+Complete sequence would be: mul(716, 650)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  176
+Number found:  861
+Closing brace found
+Complete sequence would be: mul(176, 861)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  345
+Number found:  935
+Closing brace found
+Complete sequence would be: mul(345, 935)
+Skipping this combination, since we found dont()
+m found
+Number found:  858
+Number found:  985
+Closing brace found
+Complete sequence would be: mul(858, 985)
+Skipping this combination, since we found dont()
+m found
+Number found:  845
+Number found:  922
+Closing brace found
+Complete sequence would be: mul(845, 922)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  881
+Number found:  569
+Closing brace found
+Complete sequence would be: mul(881, 569)
+Skipping this combination, since we found dont()
+m found
+Number found:  358
+Number found:  797
+Closing brace found
+Complete sequence would be: mul(358, 797)
+Skipping this combination, since we found dont()
+m found
+Number found:  516
+Number found:  571
+Closing brace found
+Complete sequence would be: mul(516, 571)
+Skipping this combination, since we found dont()
+m found
+Number found:  226
+Number found:  334
+Closing brace found
+Complete sequence would be: mul(226, 334)
+Skipping this combination, since we found dont()
+m found
+Number found:  311
+Number found:  634
+Closing brace found
+Complete sequence would be: mul(311, 634)
+Skipping this combination, since we found dont()
+m found
+Number found:  96
+Number found:  221
+Closing brace found
+Complete sequence would be: mul(96, 221)
+Skipping this combination, since we found dont()
+m found
+Number found:  495
+Number found:  880
+Closing brace found
+Complete sequence would be: mul(495, 880)
+Skipping this combination, since we found dont()
+m found
+Number found:  514
+Number found:  411
+Closing brace found
+Complete sequence would be: mul(514, 411)
+Skipping this combination, since we found dont()
+m found
+Number found:  876
+Number found:  885
+Closing brace found
+Complete sequence would be: mul(876, 885)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  491
+Number found:  922
+Closing brace found
+Complete sequence would be: mul(491, 922)
+Skipping this combination, since we found dont()
+m found
+Number found:  598
+Number found:  731
+Closing brace found
+Complete sequence would be: mul(598, 731)
+Skipping this combination, since we found dont()
+m found
+Number found:  574
+Number found:  551
+Closing brace found
+Complete sequence would be: mul(574, 551)
+Skipping this combination, since we found dont()
+m found
+Number found:  836
+Number found:  195
+Closing brace found
+Complete sequence would be: mul(836, 195)
+Skipping this combination, since we found dont()
+m found
+Number found:  799
+Number found:  133
+Closing brace found
+Complete sequence would be: mul(799, 133)
+Skipping this combination, since we found dont()
+m found
+Number found:  390
+Number found:  782
+Closing brace found
+Complete sequence would be: mul(390, 782)
+Skipping this combination, since we found dont()
+m found
+Number found:  900
+Number found:  205
+Closing brace found
+Complete sequence would be: mul(900, 205)
+Skipping this combination, since we found dont()
+m found
+Number found:  805
+Number found:  770
+Closing brace found
+Complete sequence would be: mul(805, 770)
+Skipping this combination, since we found dont()
+m found
+Number found:  876
+Number found:  688
+Closing brace found
+Complete sequence would be: mul(876, 688)
+Skipping this combination, since we found dont()
+m found
+Number found:  584
+Number found:  620
+Closing brace found
+Complete sequence would be: mul(584, 620)
+Skipping this combination, since we found dont()
+m found
+Number found:  917
+Number found:  463
+Closing brace found
+Complete sequence would be: mul(917, 463)
+Skipping this combination, since we found dont()
+m found
+Number found:  16
+Number found:  596
+Closing brace found
+Complete sequence would be: mul(16, 596)
+Skipping this combination, since we found dont()
+m found
+Number found:  251
+Number found:  417
+Closing brace found
+Complete sequence would be: mul(251, 417)
+Skipping this combination, since we found dont()
+m found
+Number found:  184
+Number found:  265
+Closing brace found
+Complete sequence would be: mul(184, 265)
+Skipping this combination, since we found dont()
+m found
+Number found:  472
+Number found:  681
+Closing brace found
+Complete sequence would be: mul(472, 681)
+Skipping this combination, since we found dont()
+m found
+d found
+Condition found:  do()
+m found
+Number found:  272
+Number found:  42
+Closing brace found
+Complete sequence would be: mul(272, 42)
+Adding this combination to the list
+m found
+Number found:  887
+Number found:  322
+Closing brace found
+Complete sequence would be: mul(887, 322)
+Adding this combination to the list
+m found
+Number found:  700
+Number found:  954
+Closing brace found
+Complete sequence would be: mul(700, 954)
+Adding this combination to the list
+m found
+Number found:  420
+Number found:  32
+Closing brace found
+Complete sequence would be: mul(420, 32)
+Adding this combination to the list
+m found
+Number found:  782
+Number found:  2
+Closing brace found
+Complete sequence would be: mul(782, 2)
+Adding this combination to the list
+m found
+m found
+Number found:  742
+Number found:  809
+Closing brace found
+Complete sequence would be: mul(742, 809)
+Adding this combination to the list
+m found
+m found
+Number found:  176
+Number found:  438
+Closing brace found
+Complete sequence would be: mul(176, 438)
+Adding this combination to the list
+m found
+Number found:  365
+Number found:  870
+Closing brace found
+Complete sequence would be: mul(365, 870)
+Adding this combination to the list
+m found
+Number found:  266
+Number found:  568
+Closing brace found
+Complete sequence would be: mul(266, 568)
+Adding this combination to the list
+m found
+Number found:  995
+Number found:  844
+Closing brace found
+Complete sequence would be: mul(995, 844)
+Adding this combination to the list
+m found
+m found
+Number found:  206
+Number found:  566
+Closing brace found
+Complete sequence would be: mul(206, 566)
+Adding this combination to the list
+m found
+Number found:  477
+Number found:  631
+Closing brace found
+Complete sequence would be: mul(477, 631)
+Adding this combination to the list
+m found
+d found
+Condition found:  do()
+m found
+m found
+Number found:  715
+Number found:  209
+Closing brace found
+Complete sequence would be: mul(715, 209)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  349
+Number found:  130
+Closing brace found
+Complete sequence would be: mul(349, 130)
+Adding this combination to the list
+m found
+Number found:  945
+Number found:  479
+Closing brace found
+Complete sequence would be: mul(945, 479)
+Adding this combination to the list
+m found
+Number found:  276
+Number found:  89
+Closing brace found
+Complete sequence would be: mul(276, 89)
+Adding this combination to the list
+m found
+Number found:  506
+Number found:  517
+Closing brace found
+Complete sequence would be: mul(506, 517)
+Adding this combination to the list
+m found
+Number found:  419
+Number found:  813
+Closing brace found
+Complete sequence would be: mul(419, 813)
+Adding this combination to the list
+m found
+Number found:  310
+Number found:  325
+Closing brace found
+Complete sequence would be: mul(310, 325)
+Adding this combination to the list
+m found
+Number found:  409
+Number found:  240
+Closing brace found
+Complete sequence would be: mul(409, 240)
+Adding this combination to the list
+m found
+Number found:  859
+Number found:  189
+Closing brace found
+Complete sequence would be: mul(859, 189)
+Adding this combination to the list
+m found
+m found
+Number found:  297
+Number found:  639
+Closing brace found
+Complete sequence would be: mul(297, 639)
+Adding this combination to the list
+d found
+Condition found:  don't()
+m found
+Number found:  695
+Number found:  731
+Closing brace found
+Complete sequence would be: mul(695, 731)
+Skipping this combination, since we found dont()
+m found
+Number found:  180
+Number found:  470
+Closing brace found
+Complete sequence would be: mul(180, 470)
+Skipping this combination, since we found dont()
+m found
+m found
+Number found:  699
+Number found:  904
+Closing brace found
+Complete sequence would be: mul(699, 904)
+Skipping this combination, since we found dont()
+m found
+Number found:  598
+Number found:  451
+Closing brace found
+Complete sequence would be: mul(598, 451)
+Skipping this combination, since we found dont()
+m found
+Number found:  22
+Number found:  310
+Closing brace found
+Complete sequence would be: mul(22, 310)
+Skipping this combination, since we found dont()
+m found
+Number found:  65
+Number found:  130
+Closing brace found
+Complete sequence would be: mul(65, 130)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+Number found:  851
+Number found:  562
+Closing brace found
+Complete sequence would be: mul(851, 562)
+Adding this combination to the list
+m found
+m found
+Number found:  377
+Number found:  692
+Closing brace found
+Complete sequence would be: mul(377, 692)
+Adding this combination to the list
+m found
+d found
+Condition found:  don't()
+m found
+m found
+Number found:  433
+Number found:  800
+Closing brace found
+Complete sequence would be: mul(433, 800)
+Skipping this combination, since we found dont()
+m found
+Number found:  546
+Number found:  657
+Closing brace found
+Complete sequence would be: mul(546, 657)
+Skipping this combination, since we found dont()
+d found
+Condition found:  do()
+m found
+m found
+Number found:  925
+Number found:  978
+Closing brace found
+Complete sequence would be: mul(925, 978)
+Adding this combination to the list
+m found
+Number found:  991
+Number found:  829
+Closing brace found
+Complete sequence would be: mul(991, 829)
+Adding this combination to the list
+m found
+Number found:  202
+Number found:  773
+Closing brace found
+Complete sequence would be: mul(202, 773)
+Adding this combination to the list
+m found
+m found
+Number found:  600
+Number found:  632
+Closing brace found
+Complete sequence would be: mul(600, 632)
+Adding this combination to the list
+m found
+Number found:  254
+Number found:  667
+Closing brace found
+Complete sequence would be: mul(254, 667)
+Adding this combination to the list
+d found
+Condition found:  do()
+m found
+Number found:  865
+Number found:  453
+Closing brace found
+Complete sequence would be: mul(865, 453)
+Adding this combination to the list
+m found
+Number found:  813
+Number found:  642
+Closing brace found
+Complete sequence would be: mul(813, 642)
+Adding this combination to the list
+m found
+Number found:  817
+Number found:  115
+Closing brace found
+Complete sequence would be: mul(817, 115)
+Adding this combination to the list
+m found
+Number found:  430
+Number found:  489
+Closing brace found
+Complete sequence would be: mul(430, 489)
+Adding this combination to the list
+m found
+m found
+m found
+Number found:  291
+Number found:  912
+Closing brace found
+Complete sequence would be: mul(291, 912)
+Adding this combination to the list
+m found
+Number found:  86
+Number found:  762
+Closing brace found
+Complete sequence would be: mul(86, 762)
+Adding this combination to the list
+m found
+Number found:  695
+Number found:  56
+Closing brace found
+Complete sequence would be: mul(695, 56)
+Adding this combination to the list
+m found
+Number found:  893
+Number found:  928
+Closing brace found
+Complete sequence would be: mul(893, 928)
+Adding this combination to the list
+m found
+Number found:  50
+Number found:  956
+Closing brace found
+Complete sequence would be: mul(50, 956)
+Adding this combination to the list
+All the valid combinations are:  [[600 238] [982 137] [550 306] [331 66] [138 385] [453 763] [162 449] [629 968] [868 688] [160 791] [473 136] [825 302] [325 635] [299 8] [332 547] [532 358] [961 542] [647 503] [474 649] [239 709] [143 91] [465 739] [244 259] [752 67] [344 833] [601 124] [375 322] [477 697] [596 223] [860 132] [600 137] [216 806] [373 681] [349 138] [560 179] [626 452] [426 581] [227 368] [812 31] [694 781] [737 400] [692 914] [450 519] [343 778] [862 640] [292 865] [450 686] [791 552] [696 784] [538 499] [476 975] [940 308] [820 423] [386 97] [710 971] [436 577] [302 395] [349 117] [304 66] [598 654] [660 67] [977 328] [728 941] [874 428] [789 631] [704 887] [53 94] [455 519] [385 498] [93 328] [13 796] [264 546] [493 128] [343 192] [293 584] [664 643] [88 656] [866 302] [631 787] [364 274] [800 243] [734 189] [632 756] [703 564] [301 300] [22 780] [238 202] [908 498] [682 551] [573 36] [774 834] [969 63] [887 388] [134 297] [660 451] [642 281] [690 722] [545 305] [640 100] [333 982] [80 745] [344 493] [730 701] [226 613] [17 675] [742 231] [939 499] [886 585] [981 9] [419 998] [956 749] [833 88] [479 932] [346 663] [884 485] [674 41] [729 49] [650 61] [754 933] [282 10] [964 456] [476 807] [227 838] [339 718] [953 984] [999 724] [43 842] [662 853] [776 981] [624 583] [115 696] [873 420] [136 123] [514 998] [175 609] [53 892] [750 639] [99 208] [923 617] [912 466] [560 180] [733 333] [802 218] [617 216] [175 451] [690 299] [160 763] [640 728] [372 201] [885 967] [58 303] [139 488] [167 577] [981 462] [387 979] [387 101] [501 522] [383 636] [939 604] [316 431] [220 730] [864 202] [806 858] [892 860] [565 627] [320 275] [183 360] [270 366] [491 377] [478 743] [464 509] [837 217] [921 229] [45 689] [903 906] [213 893] [47 426] [514 953] [143 932] [990 283] [755 667] [474 41] [224 420] [789 459] [466 822] [263 647] [570 585] [474 591] [2 90] [517 561] [510 855] [485 191] [238 765] [606 527] [446 167] [445 372] [142 440] [687 94] [297 299] [381 157] [711 860] [18 464] [340 143] [698 326] [185 42] [717 45] [268 887] [896 967] [29 886] [802 796] [373 685] [834 143] [30 941] [925 254] [516 742] [244 359] [458 20] [978 711] [402 128] [188 495] [62 537] [720 554] [888 389] [857 511] [900 41] [134 188] [140 747] [440 286] [406 675] [544 316] [266 243] [247 211] [145 389] [382 956] [970 955] [310 784] [269 773] [584 906] [754 294] [162 353] [324 434] [593 963] [184 787] [369 262] [960 324] [992 885] [451 4] [585 689] [921 985] [641 166] [944 216] [321 509] [743 426] [893 894] [978 976] [504 604] [196 555] [820 463] [497 730] [272 539] [542 203] [300 118] [769 400] [682 347] [264 922] [393 409] [36 369] [660 560] [752 637] [272 42] [887 322] [700 954] [420 32] [782 2] [742 809] [176 438] [365 870] [266 568] [995 844] [206 566] [477 631] [715 209] [349 130] [945 479] [276 89] [506 517] [419 813] [310 325] [409 240] [859 189] [297 639] [851 562] [377 692] [925 978] [991 829] [202 773] [600 632] [254 667] [865 453] [813 642] [817 115] [430 489] [291 912] [86 762] [695 56] [893 928] [50 956]]
+Total:  80062391
