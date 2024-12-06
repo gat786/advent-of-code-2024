@@ -64,33 +64,21 @@ func get_invalid_number(lineContent *string, index int) string {
 
 func get_condition(lineContent *string, index int) (string, error) {
 	condition_string := ""
-	for {
-		c := (*lineContent)[index : index+3]
+	c := (*lineContent)[index : index+3]
+	c = fmt.Sprintf("%s%s", "d", c)
+	if c == do_string {
+		condition_string += c
+		return condition_string, nil
+	} else {
+		c := (*lineContent)[index : index+6]
 		c = fmt.Sprintf("%s%s", "d", c)
-		if c == do_string {
+		if c == dont_string {
 			condition_string += c
 			return condition_string, nil
 		} else {
-			c := (*lineContent)[index : index+6]
-			c = fmt.Sprintf("%s%s", "d", c)
-			if c == dont_string {
-				condition_string += c
-				return condition_string, nil
-			} else {
-				return "", fmt.Errorf("invalid condition found: %s", c)
-			}
+			return "", fmt.Errorf("invalid condition found: %s", c)
 		}
 	}
-}
-
-func isCombinationPossible(lineContent string) bool {
-	for _, c := range lineContent {
-		_, ok := seq[c]
-		if !ok {
-			return false
-		}
-	}
-	return true
 }
 
 func main() {
@@ -145,7 +133,7 @@ func main() {
 							curr_index += 1
 						} else {
 							fmt.Println("Condition found: ", condition)
-							curr_index += len(condition)
+							curr_index += len(condition) - 1
 							if condition == do_string {
 								consider_next_multiplications = true
 							} else if condition == dont_string {
