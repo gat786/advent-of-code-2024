@@ -8,18 +8,14 @@ import (
 )
 
 var (
-	default_rune = '#'
-	seq          = map[rune]string{109: "m", 117: "u", 108: "l",
+	seq = map[rune]string{109: "m", 117: "u", 108: "l",
 		40: "(", 41: ")", 48: "0", 49: "1", 50: "2", 51: "3", 52: "4",
 		53: "5", 54: "6", 55: "7", 56: "8", 57: "9", 44: ",", 100: "d",
 		111: "o", 110: "n", 116: "t"}
 	seq_numbers   = map[rune]int{48: 0, 49: 1, 50: 2, 51: 3, 52: 4, 53: 5, 54: 6, 55: 7, 56: 8, 57: 9}
 	comma_rune    = 44
 	m             = 109
-	u             = 117
-	l             = 108
 	d             = 100
-	opening_brace = 40
 	closing_brace = 41
 	do_string     = "do()"
 	dont_string   = "don't()"
