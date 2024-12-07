@@ -6,11 +6,14 @@ import (
 	"os"
 )
 
-func get_diagonals(matrix *[][]rune, x int, y int) [][]int {
-	diagonals := make([][]int, 3)
-	diagonals[0] = []int{x - 1, y - 1}
-	diagonals[1] = []int{x, y}
-	diagonals[2] = []int{x + 1, y + 1}
+func get_diagonals(matrix *[][]rune, x int, y int) [][][]int {
+	diagonals := make([][][]int, 3)
+	diagonals[0][0] = []int{x - 1, y - 1}
+	diagonals[0][1] = []int{x, y}
+	diagonals[0][2] = []int{x + 1, y + 1}
+	diagonals[1][0] = []int{x - 1, y + 1}
+	diagonals[1][1] = []int{x, y}
+	diagonals[1][2] = []int{x + 1, y + 1}
 	return diagonals
 }
 
