@@ -6,15 +6,40 @@ import (
 	"os"
 )
 
-func get_diagonals(matrix *[][]rune, x int, y int) [][][]int {
-	diagonals := make([][][]int, 3)
-	diagonals[0][0] = []int{x - 1, y - 1}
-	diagonals[0][1] = []int{x, y}
-	diagonals[0][2] = []int{x + 1, y + 1}
-	diagonals[1][0] = []int{x - 1, y + 1}
-	diagonals[1][1] = []int{x, y}
-	diagonals[1][2] = []int{x + 1, y + 1}
+var (
+	xmas_map = map[string]bool{"MAS": true, "SAM": true}
+)
+
+type Point struct {
+	x int
+	y int
+}
+
+func get_diagonals(matrix *[][]rune, x int, y int) [][]Point {
+	diagonals := make([][]Point, 2)
+	diagonal_1 := make([]Point, 3)
+	diagonal_2 := make([]Point, 3)
+	diagonal_1_additive := []Point{{-1, -1}, {0, 0}, {1, 1}}
+	diagonal_2_additive := []Point{{-1, 1}, {0, 0}, {1, -1}}
+	for i, _ := range diagonal_1 {
+		diagonal_1[i] = Point{x + diagonal_1_additive[i].x, y + diagonal_1_additive[i].y}
+		diagonal_2[i] = Point{x + diagonal_2_additive[i].x, y + diagonal_2_additive[i].y}
+	}
+	diagonals[0] = diagonal_1
+	diagonals[1] = diagonal_2
 	return diagonals
+}
+
+func get_chars(matrix *[][]rune, combination []Point) string {
+	combination_string := ""
+	for _, point := range combination {
+		if point.x < 0 || point.y < 0 || point.x >= len(*matrix) || point.y >= len((*matrix)[0]) {
+			combination_string = ""
+			break
+		}
+		combination_string += string((*matrix)[point.x][point.y])
+	}
+	return combination_string
 }
 
 func main() {
@@ -49,7 +74,12 @@ func main() {
 		for column_index, _ := range row {
 			fmt.Println(row_index, column_index)
 			diagonals := get_diagonals(&matrix, row_index, column_index)
-			fmt.Println(diagonals)
+			diagonal_1_string := get_chars(&matrix, diagonals[0])
+			diagonal_2_string := get_chars(&matrix, diagonals[1])
+			if xmas_map[diagonal_1_string] && xmas_map[diagonal_2_string] {
+				fmt.Println("Both strings are XMAS, ", diagonal_1_string, diagonal_2_string)
+				xmas_count++
+			}
 		}
 		lineNum++
 	}
